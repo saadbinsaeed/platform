@@ -1,0 +1,11 @@
+@import url('~primereact/resources/primereact.css');
+@import url('~leaflet/dist/leaflet.css');
+@import url('~react-leaflet-markercluster/dist/styles.min.css');
+@import url('~leaflet-draw/dist/leaflet.draw.css');
+@import url('~leaflet-measure/dist/leaflet-measure.css');
+@import url('~react-alice-carousel/lib/scss/alice-carousel.scss');
+@import url('icons.scss');
+@import url('fonts.scss');
+.ui-accordion .ui-accordion-content-wrapper-expanded {
+    max-height: 10000000px !important;
+}

@@ -1,0 +1,37 @@
+/* @flow */
+import { combineReducers } from 'redux';
+
+import { dataTableReducer, loadDataReducer, truthful } from 'app/utils/redux/reducer-utils';
+import {
+    LOAD_GROUP_USERS_STARTED, LOAD_GROUP_USERS,
+    LOAD_GROUP_USERS_ADD_LIST_STARTED, LOAD_GROUP_USERS_ADD_LIST,
+    ADD_GROUP_USERS_STARTED, ADD_GROUP_USERS,
+    LOAD_GROUP_THINGS_STARTED, LOAD_GROUP_THINGS,
+    LOAD_GROUP_PEOPLE_STARTED, LOAD_GROUP_PEOPLE,
+    LOAD_GROUP_ORGANISATION_STARTED, LOAD_GROUP_ORGANISATION,
+    LOAD_GROUP_CUSTOM_STARTED, LOAD_GROUP_CUSTOM,
+    LOAD_GROUP_PROCESS_DEFINITIONS_STARTED, LOAD_GROUP_PROCESS_DEFINITIONS,
+    LOAD_GROUP_ENTITIES_STARTED, LOAD_GROUP_ENTITIES,
+    CREATE_GROUP_STARTED, CREATE_GROUP,
+    ADD_ENTITIES_TO_GROUP_STARTED, ADD_ENTITIES_TO_GROUP,
+    LOAD_GROUP_CHANGELOG_STARTED, LOAD_GROUP_CHANGELOG
+} from 'store/actions/admin/groupsActions';
+import group from './group/groupReducer';
+import list from './list/groupListReducer';
+
+export default combineReducers({
+    group,
+    list,
+    save: loadDataReducer(CREATE_GROUP_STARTED, CREATE_GROUP),
+    users: dataTableReducer(LOAD_GROUP_USERS_STARTED, LOAD_GROUP_USERS),
+    addUsersList: dataTableReducer(LOAD_GROUP_USERS_ADD_LIST_STARTED, LOAD_GROUP_USERS_ADD_LIST),
+    addGroupUser: loadDataReducer(ADD_GROUP_USERS_STARTED, ADD_GROUP_USERS),
+    things: dataTableReducer(LOAD_GROUP_THINGS_STARTED, LOAD_GROUP_THINGS),
+    people: dataTableReducer(LOAD_GROUP_PEOPLE_STARTED, LOAD_GROUP_PEOPLE),
+    organisations: dataTableReducer(LOAD_GROUP_ORGANISATION_STARTED, LOAD_GROUP_ORGANISATION),
+    customEntities: dataTableReducer(LOAD_GROUP_CUSTOM_STARTED, LOAD_GROUP_CUSTOM),
+    processDefinitions: dataTableReducer(LOAD_GROUP_PROCESS_DEFINITIONS_STARTED, LOAD_GROUP_PROCESS_DEFINITIONS),
+    addEntitiesList: dataTableReducer(LOAD_GROUP_ENTITIES_STARTED, LOAD_GROUP_ENTITIES),
+    addingEntities: loadDataReducer(ADD_ENTITIES_TO_GROUP_STARTED, ADD_ENTITIES_TO_GROUP),
+    changelog: loadDataReducer(LOAD_GROUP_CHANGELOG_STARTED, LOAD_GROUP_CHANGELOG, truthful),
+});

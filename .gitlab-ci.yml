@@ -1,0 +1,97 @@
+#Varis Aziri 22-01-2019 22:45 - hybrid shell and docker executor script
+
+image: node:dubnium
+
+cache:
+  key: ${CI_COMMIT_REF_SLUG}
+  paths:
+  - node_modules/
+
+variables:
+   ARTIFACT: "$CI_PROJECT_NAME-$CI_COMMIT_REF_SLUG"
+
+
+stages:
+   - test
+   - build
+   - use
+
+run-tests:
+  tags:
+    - docker
+  stage: test
+  script:
+    - yarn
+    - yarn test-ci
+  only: ['development', 'qa', 'master']
+
+build-and-pack:
+  tags:
+    - docker
+  stage: build
+  script:
+    - yarn
+    - yarn build
+    - echo "$(date +"%d-%m-%Y %H:%M:%S") - Short commit SHA ${CI_COMMIT_SHA:0:8} - Long commit SHA $CI_COMMIT_SHA - Project name $CI_PROJECT_NAME - Branch name $CI_COMMIT_REF_NAME" >> build/$CI_PROJECT_NAME-build.info
+    - tar zcf $ARTIFACT-${CI_COMMIT_SHA:0:8}.tgz -C build/ .
+#    - sh build-platform-ui.sh
+  only: ['development', 'qa', 'master']
+  artifacts:
+    paths:
+    - $ARTIFACT-${CI_COMMIT_SHA:0:8}.tgz
+#    - storybook-static-*.tgz
+    expire_in: 1 day
+
+store-artifacts:
+  tags:
+    - bob_the_builder
+  stage: use
+  script:
+    - sudo -u mic3 cp $ARTIFACT-${CI_COMMIT_SHA:0:8}.tgz /home/mic3/artifacts/
+#    - sudo -u mic3 cp storybook-static-*.tgz /home/mic3/artifacts/
+  only: ['development', 'qa', 'master']
+
+make-image:
+  tags:
+    - bob_the_builder
+  stage: use
+  allow_failure: true
+  script:
+    - docker login -u gitlab-ci-token -p $CI_JOB_TOKEN gitlab.mi-c3.com:4567
+    - docker build -t gitlab.mi-c3.com:4567/affectli-project/$CI_PROJECT_NAME:${CI_COMMIT_SHA:0:8} .
+    - docker push gitlab.mi-c3.com:4567/affectli-project/$CI_PROJECT_NAME:${CI_COMMIT_SHA:0:8}
+  only: ['development', 'qa', 'master']
+  when: manual
+
+deploy-to-development:
+  tags:
+    - development
+  stage: use
+  script:
+    - "sudo rm -rf /var/www/html/*.js* /var/www/html/*.html /var/www/html/*.ico  /var/www/html/static /var/www/html/temp /var/www/html/notifications /var/www/html/storybook-static/*"
+    - sudo tar xzf $ARTIFACT-${CI_COMMIT_SHA:0:8}.tgz -C /var/www/html/
+#    - sudo tar xzf storybook-static-*.tgz -C /var/www/html/storybook-static/
+    - sudo chown -R www-data:www-data /var/www/html
+  only:
+    - development
+  variables:
+    GIT_STRATEGY: none    
+  environment:
+    name: affectli-development
+    url: https://affectli.dev.mi-c3.com
+    
+deploy-to-qa:
+  tags:
+    - qa
+  stage: use
+  script:
+    - "sudo rm -rf /var/www/html/*.js* /var/www/html/*.html /var/www/html/*.ico  /var/www/html/static /var/www/html/temp /var/www/html/notifications"
+    - sudo tar xzf $ARTIFACT-${CI_COMMIT_SHA:0:8}.tgz -C /var/www/html/
+    - sudo chown -R www-data:www-data /var/www/html
+  only:
+    - qa
+  variables:
+    GIT_STRATEGY: none
+  environment:
+    name: affectli-development
+    url: https://affectli.qa.mi-c3.com    

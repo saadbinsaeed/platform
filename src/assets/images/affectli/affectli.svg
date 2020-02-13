@@ -1,0 +1,577 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <symbol viewBox="0 0 24 24" id="af-abox">
+        <path fill="#546E7A"
+              d="M13.684 13.145a1.812 1.812 0 0 1-1.495.782c-.667 0-1.248-.36-1.563-.895L7.002 6.965 12 10l11-9-9.316 12.145zM19 8.678V15h-4c0 1.66-1.35 3-3 3s-3-1.34-3-3H5V5h10.742l2.445-2H4.99c-1.11 0-1.98.89-1.98 2l-.008 11.061L3 19c0 1.1.88 2 1.99 2H19c1.1 0 2-.9 2-2V6.071l-2 2.607z"/>
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="af-affectli">
+        <path fill="#546E7A"
+              d="M12 2C6.477 2 2 6.477 2 12s4.477 10 10 10 10-4.477 10-10S17.523 2 12 2zm4.559 15.761a2.241 2.241 0 0 1-1.604-3.804l-2.696-5.483a2.223 2.223 0 0 1-.548-.003L9.04 13.952l.008.008 3.724-1.041-3.096 2.451a2.24 2.24 0 1 1-1.984-2.076l2.683-5.503a2.241 2.241 0 1 1 3.228.022l2.696 5.482a2.24 2.24 0 1 1 .26 4.466z"/>
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="af-analytics">
+        <path fill="#546E7A"
+              d="M6.9 19H5.113l3.314-6.788c.37-.002.732-.097 1.055-.271l3.532 2.284a2.248 2.248 0 1 0 4.05-1.08L19.753 7.7a2.25 2.25 0 1 0-1.793-.886l-2.673 5.412a2.25 2.25 0 0 0-1.19.317l-3.46-2.237a2.25 2.25 0 1 0-4.007 1.028L4 16.721V3H2v18h20v-2H6.9z"/>
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="af-app-builder">
+        <path fill="#546E7A"
+              d="M10 8h4V4h-4m6 4h4V4h-4m-6 10h4v-4h-4m-6 4h4v-4H4m0 10h4v-4H4m0-8h4V4H4v4zm11 10h2v2h-2m3-2h2v2h-2m0-8h2v2h-2m0 1h2v2h-2m-6 1h2v2h-2m3-5h2v2h-2v-2z"/>
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="af-charts">
+        <path fill="#546E7A"
+              d="M21 13a8.951 8.951 0 0 1-1.969 5.617L13.414 13l5.617-5.617A8.951 8.951 0 0 1 21 13zm-10 .414V4.056a9 9 0 1 0 6.617 15.975L11 13.414zm2-2.828l6.363-6.364A8.971 8.971 0 0 0 13 1.586v9z"/>
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="af-classification-editor">
+        <path fill="#546E7A"
+              d="M20.854 11.024L12.41 2.58C12.05 2.22 11.55 2 11 2H4c-1.11 0-2 .89-2 2v7c0 .55.22 1.05.59 1.41l8.435 8.443 9.829-9.829zM5.5 7a1.5 1.5 0 1 1-.001-2.999A1.5 1.5 0 0 1 5.5 7zM17 20h2v2h-2m3-2h2v2h-2m0-8h2v2h-2m0 1h2v2h-2m-6 1h2v2h-2m3-5h2v2h-2v-2z"/>
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="af-classification-tags">
+        <path fill="#546E7A"
+              d="M5.5 7a1.5 1.5 0 1 0 .001-2.999A1.5 1.5 0 0 0 5.5 7m15.91 4.58c.36.36.59.86.59 1.42 0 .55-.221 1.05-.59 1.41l-7 7c-.36.36-.86.59-1.41.59s-1.05-.23-1.42-.59l-8.99-9C2.22 12.05 2 11.55 2 11V4c0-1.11.89-2 2-2h7c.55 0 1.05.22 1.41.58l9 9"/>
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="af-config-a">
+        <path fill="#546E7A"
+              d="M17 20h2v2h-2v-2zm0-1h2v-2h-2v2zm-3 3h2v-2h-2v2zm6-8v2h2v-2h-2zm0 5h2v-2h-2v2zm0 3h2v-2h-2v2zm1.83-11.951l-11.78 11.78-2.57-.688a.503.503 0 0 1-.367-.537l.325-2.658a7.868 7.868 0 0 1-.743-.645 8.144 8.144 0 0 1-.644-.742l-2.658.325a.494.494 0 0 1-.538-.368l-1.033-3.859a.488.488 0 0 1 .276-.587l2.468-1.054c.092-.643.248-1.28.502-1.888L3.464 6.985a.489.489 0 0 1 .05-.644l2.828-2.828a.489.489 0 0 1 .644-.05l2.143 1.605a7.288 7.288 0 0 1 1.888-.502l1.053-2.467a.503.503 0 0 1 .587-.276l3.86 1.033a.504.504 0 0 1 .367.538l-.324 2.658c.254.197.502.403.742.643.24.241.446.488.645.743l2.658-.326a.503.503 0 0 1 .537.367l.688 2.57zm-7.355-.526a3.506 3.506 0 0 0-4.951 0 3.504 3.504 0 0 0 0 4.95 3.505 3.505 0 0 0 4.951 0 3.505 3.505 0 0 0 0-4.95z"/>
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="af-config-b">
+        <path fill="#546E7A"
+              d="M22.7 19l-9.1-9.1c.9-2.3.4-5-1.5-6.9-2-2-5-2.4-7.4-1.3L9 6 6 9 1.6 4.7C.4 7.1.9 10.1 2.9 12.1c1.9 1.9 4.6 2.4 6.9 1.5l9.1 9.1a.966.966 0 0 0 1.398 0l2.301-2.3c.501-.4.501-1.1.101-1.4z"/>
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="af-config-builder-a">
+        <path fill="#546E7A"
+              d="M17 20h2v2h-2v-2zm0-1h2v-2h-2v2zm-3 3h2v-2h-2v2zm6-8v2h2v-2h-2zm0 5h2v-2h-2v2zm0 3h2v-2h-2v2zm1.83-11.951l-11.78 11.78-2.57-.688a.503.503 0 0 1-.367-.537l.325-2.658a7.868 7.868 0 0 1-.743-.645 8.144 8.144 0 0 1-.644-.742l-2.658.325a.494.494 0 0 1-.538-.368l-1.033-3.859a.488.488 0 0 1 .276-.587l2.468-1.054c.092-.643.248-1.28.502-1.888L3.464 6.985a.489.489 0 0 1 .05-.644l2.828-2.828a.489.489 0 0 1 .644-.05l2.143 1.605a7.288 7.288 0 0 1 1.888-.502l1.053-2.467a.503.503 0 0 1 .587-.276l3.86 1.033a.504.504 0 0 1 .367.538l-.324 2.658c.254.197.502.403.742.643.24.241.446.488.645.743l2.658-.326a.503.503 0 0 1 .537.367l.688 2.57zm-7.355-.526a3.506 3.506 0 0 0-4.951 0 3.504 3.504 0 0 0 0 4.95 3.505 3.505 0 0 0 4.951 0 3.505 3.505 0 0 0 0-4.95z"/>
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="af-config-builder-b">
+        <path fill="#546E7A"
+              d="M18 21h2v2h-2v-2zm0-1h2v-2h-2v2zm-3 3h2v-2h-2v2zm6-6h2v-2h-2v2zm0 3h2v-2h-2v2zm0 3h2v-2h-2v2zM13.6 9.9c.9-2.3.4-5-1.5-6.9-2-2-5-2.4-7.4-1.3L9 6 6 9 1.6 4.7C.4 7.1.9 10.1 2.9 12.1c1.9 1.9 4.6 2.4 6.9 1.5l5.234 5.234 3.75-3.75L13.6 9.9z"/>
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="af-dashboard">
+        <path fill="#546E7A"
+              d="M22 13a9.954 9.954 0 0 1-.833 4H17v-2h2.74c.166-.641.26-1.309.26-2a8 8 0 0 0-16 0c0 .691.094 1.359.26 2H7v2H2.833A9.954 9.954 0 0 1 2 13C2 7.477 6.477 3 12 3s10 4.477 10 10zm-11.44.451a1.54 1.54 0 1 0 2.617 1.625l3.48-5.602-5.602 3.48a1.577 1.577 0 0 0-.495.497zm4.348-4.656l1.357-.843A6.578 6.578 0 0 0 12 6.384a6.614 6.614 0 0 0-5.447 2.867l1.083 1.083A5.118 5.118 0 0 1 12 7.884c1.08 0 2.082.338 2.908.911z"/>
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="af-data-source">
+        <path fill="#546E7A"
+              d="M20 3H4c-.55 0-1 .45-1 1v6c0 .55.45 1 1 1h16c.55 0 1-.45 1-1V4c0-.55-.45-1-1-1zM7 8.5a1.5 1.5 0 1 1-.001-2.999A1.5 1.5 0 0 1 7 8.5zM20 13H4c-.55 0-1 .45-1 1v6c0 .55.45 1 1 1h16c.55 0 1-.45 1-1v-6c0-.55-.45-1-1-1zM7 18.5a1.5 1.5 0 1 1-.001-2.999A1.5 1.5 0 0 1 7 18.5z"/>
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="af-data-source-builder">
+        <path fill="#546E7A"
+              d="M16 19h2v2h-2v-2zm0-1h2v-2h-2v2zm-3 3h2v-2h-2v2zm6-6h2v-2h-2v2zm0 3h2v-2h-2v2zm0 3h2v-2h-2v2zm2-17v4.879L18.879 11H4c-.55 0-1-.45-1-1V4c0-.55.45-1 1-1h16c.55 0 1 .45 1 1zM8.5 7a1.5 1.5 0 1 0-2.999-.001A1.5 1.5 0 0 0 8.5 7zm8.379 6l-8 8H4c-.55 0-1-.45-1-1v-6c0-.55.45-1 1-1h12.879zM8.5 17a1.5 1.5 0 1 0-2.999-.001A1.5 1.5 0 0 0 8.5 17z"/>
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="af-designer">
+        <path fill="#546E7A"
+              d="M19.182 8.569l-3.75-3.75L8.1 12.15v3.75h3.75l7.332-7.331zM16.5 3.75l3.75 3.75 1.831-1.83a.996.996 0 0 0 0-1.41l-2.34-2.34a.996.996 0 0 0-1.41 0L16.5 3.75zM7 22H5v-2h2m-3 2H2v-2h2m0-4H2v-2h2m0 5H2v-2h2m6 5H8v-2h2m-3-1H5v-2h2v2z"/>
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="af-duplicate-app">
+        <path fill="#546E7A"
+              d="M18 20v2H2V6h2v14h14zM6 6h4V2H6v4zm0 6h4V8H6v4zm0 6h4v-4H6v4zm6 0h4v-4h-4v4zm6-16v4h4V2h-4zm0 10h4V8h-4v4zm-6 0h4V8h-4v4zm6 6h4v-4h-4v4zM12 6h4V2h-4v4z"/>
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="af-event-dashboard">
+        <path fill="#546E7A"
+              d="M22 6v7h-2V6h2zM11 8H9v4.414l2.763 2.763 1.414-1.413L11 11.586V8zm7 4a8 8 0 1 1-16 0 8 8 0 0 1 16 0zm-2 0a6 6 0 1 0-6 6 6 6 0 0 0 6-6zm4 5h2v-2h-2v2z"/>
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="af-event-monitor">
+        <path fill="#546E7A"
+              d="M13.441 19.71L9.11 8.444 6.802 14H2v-2h3.467l3.715-8.941 4.306 11.201.914-2.26H22v2h-6.248z"/>
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="af-events">
+        <path fill="#546E7A"
+              d="M15 13h1.5v2.82l2.439 1.41-.75 1.3L15 16.689V13m4-5H5v11h4.67c-.43-.91-.67-1.93-.67-3a7 7 0 0 1 7-7c1.07 0 2.09.24 3 .67V8M5 21a2 2 0 0 1-2-2V5c0-1.11.89-2 2-2h1V1h2v2h8V1h2v2h1a2 2 0 0 1 2 2v6.1c1.24 1.26 2 2.99 2 4.9a7 7 0 0 1-7 7c-1.91 0-3.64-.76-4.9-2H5m11-9.85c-2.68 0-4.85 2.17-4.85 4.85 0 2.68 2.17 4.85 4.85 4.85s4.85-2.17 4.85-4.85c0-2.68-2.17-4.85-4.85-4.85z"/>
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="af-file-builder">
+        <path fill="#546E7A"
+              d="M20 9.879V8l-6-6H6c-1.11 0-2 .89-2 2v16a2 2 0 0 0 2 2h1.879L20 9.879zM13 3.5L18.5 9H13V3.5zM15 20h2v2h-2m3-2h2v2h-2m0-8h2v2h-2m0 1h2v2h-2m-6 1h2v2h-2m3-5h2v2h-2v-2z"/>
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="af-form">
+        <path fill="#546E7A"
+              d="M17 17H7v-6h10v6zm-8-2h6v-2H9v2zM19 3H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2zm0 16H5V5h14v14zM7 9h10V7H7v2z"/>
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="af-form-builder">
+        <path fill="#546E7A"
+              d="M7 11h10v1.879l-2 2V13H9v2h5.879l-2 2H7v-6zm2.939 8.939l.94-.939H5V5h14v5.879l.939-.939L21 8.879V5a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h3.879l1.06-1.061zM7 9h10V7H7v2zm9 12h2v-2h-2m3 2h2v-2h-2m0-4h2v-2h-2m0 5h2v-2h-2m-6 5h2v-2h-2m3-1h2v-2h-2v2z"/>
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="af-form-edit">
+        <path fill="#546E7A"
+              d="M5 7h10v2H5V7zm12 10.426V19H3V5h14v3.574l1.721-1.72.279-.279V5a2 2 0 0 0-2-2H3a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-3.574l-2 2zm6.854-9.847l-1.433-1.433a.593.593 0 0 0-.86 0l-1.119 1.119 2.293 2.294 1.119-1.119a.594.594 0 0 0 0-.861zm-2.18 3.041l-2.293-2.294-.006-.006L13 14.693V17h2.305l6.375-6.375-.006-.005zM5 11v6h6v-2H7v-2h5.573l2-2H5z"/>
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="af-hr">
+        <path fill="#546E7A"
+              d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.57 4.23l.28.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.28A6.471 6.471 0 0 1 9.5 16a6.5 6.5 0 1 1 0-13m0 11c1.61 0 3-.85 3.82-2.12C12.5 10.75 11.11 10 9.5 10s-3 .75-3.82 1.88C6.5 13.15 7.89 14 9.5 14m0-9a1.75 1.75 0 1 0 .001 3.501A1.75 1.75 0 0 0 9.5 5z"/>
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="af-job-profiling">
+        <path fill="#546E7A"
+              d="M2 3h20c1.05 0 2 .95 2 2v14c0 1.05-.95 2-2 2H2c-1.05 0-2-.95-2-2V5c0-1.05.95-2 2-2m12 3v1h8V6h-8m0 2v1h8V8h-8m0 2v1h7v-1h-7m-6 3.91C6 13.91 2 15 2 17v1h12v-1c0-2-4-3.09-6-3.09M8 6a3 3 0 1 0 0 6 3 3 0 0 0 0-6z"/>
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="af-maps">
+        <path fill="#546E7A"
+              d="M16.5 11.8a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0zM22 2v16l-7 4-6.5-4L2 22V6l6.5-4L15 6l7-4zm-3.2 9.8C18.8 9.7 17.1 8 15 8c-2.102 0-3.8 1.7-3.8 3.8 0 3 3.8 6.5 3.8 6.5s3.8-3.5 3.8-6.5z"/>
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="af-marketplace">
+        <path fill="#546E7A" d="M16 7V4l-2-2h-4L8 4v3H2v14h20V7h-6zm-6 0V4h4v3h-4z"/>
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="af-messenger">
+        <path fill="#546E7A"
+              d="M12 2C6.478 2 2 5.582 2 10c0 4.298 4.242 7.795 9.558 7.982.027.203.043.41.043.621 0 1.407-.625 2.645-1.57 3.371 4.436-.857 7.055-3.017 7.368-6.102.3-2.965-1.53-5.99-3.666-7.494a2.228 2.228 0 0 1-1.233.372 2.13 2.13 0 0 1-.341-.035l-1.497 2.78c.362.399.588.924.588 1.505A2.25 2.25 0 1 1 9 10.75c.117 0 .229.017.341.034l1.497-2.78A2.235 2.235 0 0 1 10.25 6.5a2.25 2.25 0 0 1 4.5 0c0 .235-.046.457-.113.669 2.649 1.87 4.475 5.406 4.268 8.595C20.805 14.307 22 12.271 22 10c0-4.418-4.479-8-10-8z"/>
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="af-multiple-apps">
+        <path fill="#546E7A"
+              d="M3 18h3v3H3v-3zm0-6h3V9H3v3zm0 4.5h3v-3H3v3zM7.5 21h3v-3h-3v3zm4.5-3v3h3v-3h-3zM9 6h3V3H9v3zm0 9h3v-3H9v3zm0-4.5h3v-3H9v3zm4.5 4.5h3v-3h-3v3zm4.5-4.5h3v-3h-3v3zM18 3v3h3V3h-3zm-4.5 7.5h3v-3h-3v3zM18 15h3v-3h-3v3zm-4.5-9h3V3h-3v3z"/>
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="af-process-builder">
+        <path fill="#546E7A"
+              d="M17 20h2v2h-2v-2zm3 2h2v-2h-2v2zm0-6h2v-2h-2v2zm0 3h2v-2h-2v2zm-6 3h2v-2h-2v2zm3-3h2v-2h-2v2zm2-11c-.462 0-.895-.113-1.285-.301L16 9.414V15a1 1 0 0 1-1 1H9.414l-1.715 1.715c.188.39.301.823.301 1.285 0 1.654-1.346 3-3 3s-3-1.346-3-3 1.346-3 3-3c.462 0 .894.113 1.285.301L8 14.586V9a1 1 0 0 1 1-1h5.586l1.715-1.715A2.95 2.95 0 0 1 16 5c0-1.654 1.346-3 3-3s3 1.346 3 3-1.346 3-3 3zM6.5 19a1.5 1.5 0 1 0-3 0 1.5 1.5 0 0 0 3 0zm7.5-9h-4v4h4v-4z"/>
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="af-processes">
+        <path fill="#546E7A"
+              d="M19 8c-.462 0-.895-.113-1.285-.301L16 9.414V15a1 1 0 0 1-1 1H9.414l-1.715 1.715c.188.39.301.823.301 1.285 0 1.654-1.346 3-3 3s-3-1.346-3-3 1.346-3 3-3c.462 0 .894.113 1.285.301L8 14.586V9a1 1 0 0 1 1-1h5.586l1.715-1.715A2.95 2.95 0 0 1 16 5c0-1.654 1.346-3 3-3s3 1.346 3 3-1.346 3-3 3zM6.5 19a1.5 1.5 0 1 0-3 0 1.5 1.5 0 0 0 3 0zm7.5-9h-4v4h4v-4z"/>
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="af-projects">
+        <path fill="#546E7A" d="M2 5h8V2h2v20h-2v-4H6v-3h4v-2H4v-3h6V8H2V5m12 0h3v3h-3V5m0 5h5v3h-5v-3m0 5h8v3h-8v-3z"/>
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="af-reports">
+        <path fill="#546E7A"
+              d="M14 2H6c-1.11 0-2 .89-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8l-6-6zM6 5h6v2H6V5zm0 4h6v2H6V9zm11.857 3.855a1.49 1.49 0 0 1-1.235.852l-.991 2.079c.219.403.254.901.044 1.35a1.492 1.492 0 1 1-2.801-.255l-2.082-1.109a1.52 1.52 0 0 1-.843.229l-1.127 1.803c.212.401.245.893.037 1.336a1.5 1.5 0 0 1-2.716-1.273 1.497 1.497 0 0 1 1.41-.862L8.68 15.2a1.494 1.494 0 0 1 1.958-2.056c.526.246.835.76.855 1.303l1.803.96c.284-.265.66-.409 1.047-.402l.925-1.94a1.498 1.498 0 0 1-.125-1.479 1.502 1.502 0 0 1 1.996-.721c.75.352 1.07 1.24.718 1.99z"/>
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="af-script">
+        <path fill="#546E7A"
+              d="M11 6h11V5a3 3 0 0 0-3-3H9C7.344 2 6 3.344 6 5v13H2v1a3 3 0 0 0 3 3h11a3 3 0 0 0 3-3V8H9V4a2 2 0 0 1 2 2z"/>
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="af-script-builder">
+        <path fill="#546E7A"
+              d="M9 4v4h10v1.879L6.879 22H5a3 3 0 0 1-3-3v-1h4V5c0-1.656 1.344-3 3-3h10a3 3 0 0 1 3 3v1H11a2 2 0 0 0-2-2zm5 18h2v-2h-2v2zm0-3h2v-2h-2v2zm-3 3h2v-2h-2v2zm6-6h2v-2h-2v2zm0 3h2v-2h-2v2zm0 3h2v-2h-2v2z"/>
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="af-situation-awareness-drawing">
+        <path fill="#546E7A"
+              d="M19.65 7.352L11.001 16H8v-3.001l8.648-8.648 3.002 3.001zm2.525-3.654l-1.873-1.873a.797.797 0 0 0-1.128 0L17.709 3.29l3.001 3.001 1.465-1.465a.799.799 0 0 0 0-1.128zM18 18v2h-1v-2h-2v2h-1v-2h-2v2h-1v-2H9v2H8v-2H6.707l-4 4H20v-4h-2zm-12-.707V16H4v-1h2v-2H4v-1h2v-2H4V9h2V7H4V6h2V4H2v17.293l4-4z"/>
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="af-situational-awareness">
+        <path fill="#546E7A"
+              d="M7.5 12A3.497 3.497 0 0 0 4 15.5C4 18.125 7.5 22 7.5 22s3.5-3.875 3.5-6.5c0-1.936-1.565-3.5-3.5-3.5zm0 4.75a1.251 1.251 0 0 1 0-2.5 1.251 1.251 0 0 1 0 2.5zM15 16h-1.5c0-3.584-2.916-6.5-6.5-6.5V8c4.411 0 8 3.589 8 8zm3 0h-1.5c0-5.238-4.262-9.5-9.5-9.5V5c6.064 0 11 4.935 11 11zm3 0h-1.5C19.5 9.107 13.893 3.5 7 3.5V2c7.721 0 14 6.28 14 14z"/>
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="af-situational-inteligence">
+        <path fill="#546E7A"
+              d="M21.811 16.229a1.998 1.998 0 0 1-2.658.963 2.02 2.02 0 0 1-.369-.228l-4.805 2.774c.049.367 0 .75-.168 1.109a2.001 2.001 0 0 1-2.659.963 1.994 1.994 0 0 1-1.121-2.097l-4.797-2.771a1.992 1.992 0 0 1-2.082.248 2 2 0 1 1 2.066-3.393l3.706-2.14c.233.448.48.884.738 1.306L5.977 15.09c.026.181.021.364-.003.548l4.815 2.78a1.992 1.992 0 0 1 2.061-.229c.143.066.27.15.387.244l4.787-2.764a2.001 2.001 0 0 1 2.826-2.102c1 .471 1.429 1.662.961 2.662zM14.4 16s-4.9-5.425-4.9-9.1c0-2.709 2.191-4.9 4.9-4.9 2.709 0 4.9 2.191 4.9 4.9 0 3.675-4.9 9.1-4.9 9.1zm0-7.35a1.75 1.75 0 1 0-.001-3.501A1.75 1.75 0 0 0 14.4 8.65z"/>
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="af-stream">
+        <g fill="#546E7A">
+            <path d="M9.172 10.586l1.414-1.414L6.414 5H20a1 1 0 0 0 0-2H4a1.002 1.002 0 0 0-.707 1.707l5.879 5.879z"/>
+            <path d="M14.828 13.414l-1.414 1.414L17.586 19H6.414l8.293-8.293L17 13V7h-6l2.293 2.293-10 10A1 1 0 0 0 4 21h16a1 1 0 0 0 .707-1.707l-5.879-5.879z"/>
+        </g>
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="af-table">
+        <path fill="#546E7A"
+              d="M5 4h14a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2m0 4v4h6V8H5m8 0v4h6V8h-6m-8 6v4h6v-4H5m8 0v4h6v-4h-6z"/>
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="af-tag-n-go">
+        <path fill="#546E7A"
+              d="M17.882 4.354C16.425 2.917 14.5 2.135 12.54 2.016l-.044-.002a8.29 8.29 0 0 0-.315-.013L12 2l-.18.001a8.29 8.29 0 0 0-.315.013l-.044.002c-1.961.119-3.886.901-5.343 2.338a8.366 8.366 0 0 0-2.489 6.382l.001.025a7.64 7.64 0 0 0 .03.391c.007.073.018.145.027.218.009.065.016.13.026.195l.009.049a8.204 8.204 0 0 0 1.997 4.198c.989 1.109 2.067 2.164 3.156 3.201C9.901 20.003 10.954 20.98 12 22c1.047-1.02 2.1-1.998 3.126-2.988 1.089-1.035 2.167-2.089 3.155-3.197a8.217 8.217 0 0 0 1.996-4.199c.002-.017.007-.034.01-.05.01-.064.018-.129.025-.193.01-.073.02-.146.026-.219l.004-.053c.011-.112.021-.226.026-.338l.001-.023a8.361 8.361 0 0 0-2.487-6.386zM12 16.928a6.476 6.476 0 0 1-6.469-6.469A6.476 6.476 0 0 1 12 3.99a6.477 6.477 0 0 1 6.469 6.469A6.478 6.478 0 0 1 12 16.928zm0-11.397a4.97 4.97 0 1 0 0 9.939 4.97 4.97 0 0 0 0-9.939zM14.5 13h-1.875L11 10.083V13H9.5V8h1.667L13 10.917V8h1.5v5z"/>
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="af-task">
+        <path fill="#546E7A"
+              d="M13.684 15.145a1.815 1.815 0 0 1-3.058-.113L7.002 8.965 12 12l11-9-9.316 12.145zM18 11.981V18H6V6h10.965l2.076-1.698A1.976 1.976 0 0 0 18 4H6c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V9.374l-2 2.607z"/>
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="af-task-list">
+        <path fill="#546E7A"
+              d="M16 14H6v-2h10v2zm0-6H6v2h10V8zm7.5 3.747l-8.506 6.835L10.741 16l3.083 5.163a1.544 1.544 0 0 0 2.601.094l7.075-9.51zM4 8H2v2h2V8zm0 4H2v2h2v-2zm12-8H6v2h10V4zM4 4H2v2h2V4z"/>
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="af-teams">
+        <path fill="#546E7A"
+              d="M10 5a2 2 0 1 1 4.001.001A2 2 0 0 1 10 5zm-5.5 8a2 2 0 1 0-.001-4.001A2 2 0 0 0 4.5 13zm15 0a2 2 0 1 0-.001-4.001A2 2 0 0 0 19.5 13zm3.5 3a2 2 0 0 0-2-2h-3a2 2 0 0 0-2 2v4h7v-4zM6 14H3a2 2 0 0 0-2 2v4h7v-4a2 2 0 0 0-2-2zm8 2c0-1.255.593-2.363 1.5-3.098V10a2 2 0 0 0-2-2h-3a2 2 0 0 0-2 2v2.902c.907.735 1.5 1.843 1.5 3.098v4h4v-4z"/>
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="af-things">
+        <g fill="#546E7A">
+            <path d="M15.5 4c2.206 0 4 1.794 4 4s-1.794 4-4 4-4-1.794-4-4 1.794-4 4-4m0-2c-3.309 0-6 2.692-6 6 0 3.309 2.691 6 6 6s6-2.691 6-6c0-3.308-2.691-6-6-6z"/>
+            <circle cx="7" cy="15" r="4"/>
+            <circle cx="14" cy="19.5" r="2.5"/>
+        </g>
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="af-tick">
+        <path fill="#546E7A"
+              d="M20.747 5.002L8.841 13.958l-5.588-3.124 3.824 7.016a2.327 2.327 0 0 0 3.924.142l9.746-12.99z"/>
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="af-to-do">
+        <path fill="#546E7A"
+              d="M12 2C6.477 2 2 6.477 2 12s4.477 10 10 10 10-4.477 10-10S17.523 2 12 2zm-.74 14.71a1.642 1.642 0 0 1-1.354.709 1.642 1.642 0 0 1-1.417-.812L5.205 11.11l4.53 2.75 9.061-7.28-7.536 10.13z"/>
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="af-user-management">
+        <path fill="#546E7A"
+              d="M9 4a4 4 0 1 0 0 8 4 4 0 0 0 0-8m0 10c-2.67 0-8 1.33-8 4v2h11.08c-.05-.33-.08-.66-.08-1 0-1.5.5-3 1.41-4.2-1.53-.52-3.23-.8-4.41-.8m9 0a.26.26 0 0 0-.26.21l-.19 1.32c-.3.13-.59.29-.85.47l-1.24-.5c-.11 0-.239 0-.31.13l-1 1.729a.244.244 0 0 0 .06.32l1.06.819a4.655 4.655 0 0 0 0 1l-1.06.819a.26.26 0 0 0-.06.32l1 1.729c.06.13.188.13.31.13L16.7 22c.26.18.54.35.85.47l.19 1.32c.02.12.119.21.26.21h2c.109 0 .221-.09.24-.21l.189-1.32c.301-.13.571-.29.841-.47l1.23.5c.13 0 .26 0 .33-.13l1-1.729a.259.259 0 0 0-.061-.32L22.7 19.5c.021-.17.04-.33.04-.5s-.01-.33-.04-.5l1.06-.82c.09-.08.12-.21.061-.32l-1-1.729c-.061-.13-.189-.13-.319-.13L21.27 16c-.27-.18-.539-.35-.85-.47l-.189-1.32A.238.238 0 0 0 20 14m-1 3.5a1.5 1.5 0 1 1-.001 3.001A1.5 1.5 0 0 1 19 17.5z"/>
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="af-widget-builder">
+        <path fill="#546E7A"
+              d="M3 3h8v8H3V3zm0 18h8v-8H3v8zM23 6.667L17.333 1l-5.667 5.667 5.667 5.667L23 6.667zM16 21h2v-2h-2m3 2h2v-2h-2m0-4h2v-2h-2m0 5h2v-2h-2m-6 5h2v-2h-2m3-1h2v-2h-2v2z"/>
+    </symbol>
+    <symbol viewBox="0 0 293 319" id="node_modules--gulp-if--img--condition">
+        <g>
+            <path fill="#FFF" d="M0 0h293v319H0z"/>
+            <image width="129" height="40" preserveAspectRatio="none"
+                   xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIEAAAAoCAYAAADZs5l2AAABaklEQVR4Xu2Y4QnCQAxG28l0I91AnUDdQDdyBN1AXUATaaE/ql8puSrxHYSCxNzlyzMXW1esv1eg/nsFEKACAiAAAhiogAAIgAAGTAFmAjAAAhigE8AA1wEMuALMBHAABDBAJ4ABrgMYYCaAgZcCDIa/B8LcjnQyu051NCCYSunh+6zNdWG2M9tPAQMQDC/OVJ4OwarZ7GbPrdmm5OZAUFLdcbG7EDyaK/tsT//8OC7k52/1QdBSWGI/YmoFfCZw61tFYOiDwIljfU8BB2D2ZvtL0xEOkcfjOohUMyaW/wjbbtxeB0WK3x4XCGIKFxmlC8HdAvtgWLQ7A0Fk+WJiecGXZv4X0a34+wIgiClcZBSfCXhZFKkosbQCdAKtUXoPIEhfYp0gEGiN0nsAQfoS6wSBQGuU3gMI0pdYJwgEWqP0HkCQvsQ6QSDQGqX3AIL0JdYJAoHWKL0HEKQvsU4QCLRG6T2AIH2JdYJPsCceKQaweuUAAAAASUVORK5CYII="
+                   transform="translate(115 138)"/>
+            <g transform="translate(127 136)">
+                <path fill="#FFF" d="M-2-3h18v18H-2z"/>
+                <text font-family="Arial" font-size="12" y="11">no</text>
+            </g>
+            <image width="40" height="63" preserveAspectRatio="none"
+                   xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAA/CAYAAACSLYpOAAAB+0lEQVRoQ+2YPS9EYRCFdxsqGioKJBIaQkIiocAf8AMUtH6BSkJoqGiofCU0VDRUPhIqCqGhsg0ViY+KhnOSu7IRq9g5k0zxTnKS3Zu8c589M/Pe924+FzzywflyCdBaIQ8HZwH1Ac1Z4bjeA3AeeZ+hhaiAiwC7h5aiAi4D7AZaiQq4CrBzaC0q4BbADqDtqIA7ANvNZGb0mOI9ULHM+2Y6p22G5eUEH0YFPAIYN+vjqIBnAJvMJtnM6NGDF6CagC7NdE49eI28o9lmbWb0cPAWVCPQnZnOyUE+h4egQlTAB4D1Qo9RAZ8A1gbxyGUOjx58A1Uj9G6mc+pBnqZroM+ogF/KH64ucVVW2mqFe8yhBmRpOcW1UQHrsg26PipgA8D4LOYUS0Jd4mZQ8ZjVIqFz6EFu0DxRt0cF7AAYX5Y6owL2AIzvw3wWS0Ldg/2g4l8fAxI6hx7kMWsKGo4CyKkdK4Fpxec+iC/vjBPoFbqqFFhR4gJu3vQPAF0laEWhABzHndfL3P0U1wcrIssWKQCZqpyL3ZbyMrEK8C8XN5Gf102hAvztIk/V7MsXE53QQXKUujiD79NWOGWJiyzsRUaXwj0PwGLPbSjc8wBUcf3kUQ6JHC45qLA0ldjqYnIwOWh1wLo+9WBy0OqAdX3qweSg1QHr+tSDVge/AXk3RUBrNplBAAAAAElFTkSuQmCC"
+                   transform="translate(49 66)"/>
+            <path fill="#FFF" stroke="#333"
+                  d="M45 20h50c13.807 0 25 11.193 25 25s-11.193 25-25 25H45c-13.807 0-25-11.193-25-25s11.193-25 25-25z"
+                  stroke-miterlimit="10" stroke-width="2"/>
+            <text font-family="Arial" font-size="12" x="32.5" y="11" transform="translate(24 38)">input</text>
+            <path fill="#FFF" stroke="#333" d="M70 109l50 50-50 50-50-50 50-50z" stroke-miterlimit="10"
+                  stroke-width="2"/>
+            <g transform="translate(24 145)" font-family="Arial" font-size="12">
+                <text x="17" y="11">condition()</text>
+                <text x="25" y="25">is truthy</text>
+            </g>
+            <image width="40" height="63" preserveAspectRatio="none"
+                   xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAA/CAYAAACSLYpOAAAB+0lEQVRoQ+2YPS9EYRCFdxsqGioKJBIaQkIiocAf8AMUtH6BSkJoqGiofCU0VDRUPhIqCqGhsg0ViY+KhnOSu7IRq9g5k0zxTnKS3Zu8c589M/Pe924+FzzywflyCdBaIQ8HZwH1Ac1Z4bjeA3AeeZ+hhaiAiwC7h5aiAi4D7AZaiQq4CrBzaC0q4BbADqDtqIA7ANvNZGb0mOI9ULHM+2Y6p22G5eUEH0YFPAIYN+vjqIBnAJvMJtnM6NGDF6CagC7NdE49eI28o9lmbWb0cPAWVCPQnZnOyUE+h4egQlTAB4D1Qo9RAZ8A1gbxyGUOjx58A1Uj9G6mc+pBnqZroM+ogF/KH64ucVVW2mqFe8yhBmRpOcW1UQHrsg26PipgA8D4LOYUS0Jd4mZQ8ZjVIqFz6EFu0DxRt0cF7AAYX5Y6owL2AIzvw3wWS0Ldg/2g4l8fAxI6hx7kMWsKGo4CyKkdK4Fpxec+iC/vjBPoFbqqFFhR4gJu3vQPAF0laEWhABzHndfL3P0U1wcrIssWKQCZqpyL3ZbyMrEK8C8XN5Gf102hAvztIk/V7MsXE53QQXKUujiD79NWOGWJiyzsRUaXwj0PwGLPbSjc8wBUcf3kUQ6JHC45qLA0ldjqYnIwOWh1wLo+9WBy0OqAdX3qweSg1QHr+tSDVge/AXk3RUBrNplBAAAAAElFTkSuQmCC"
+                   transform="translate(49 204)"/>
+            <g transform="translate(75.136 215.406)">
+                <path fill="#FFF" d="M-2-3h23v18H-2z"/>
+                <text font-family="Arial" font-size="12" y="11">yes</text>
+            </g>
+            <g transform="matrix(1 0 0 .5 20 249)">
+                <path fill="#FFF" d="M0 0h100v100H0V0z"/>
+                <path fill="none" stroke="#333" d="M0 0h100v50H0V0z" stroke-miterlimit="10" stroke-width="2"
+                      transform="scale(1 2)"/>
+            </g>
+            <text font-family="Arial" font-size="12" x="26.5" y="11" transform="translate(24 267)">stream</text>
+            <path fill="#FFF" stroke="#333"
+                  d="M198 249h50c13.807 0 25 11.193 25 25s-11.193 25-25 25h-50c-13.807 0-25-11.193-25-25s11.193-25 25-25z"
+                  stroke-miterlimit="10" stroke-width="2"/>
+            <text font-family="Arial" font-size="12" x="29" y="11" transform="translate(177 267)">output</text>
+            <image width="77" height="40" preserveAspectRatio="none"
+                   xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAoCAYAAAC7MHdZAAABGElEQVRoQ+3W4Q3BUBTFcd3IBmzEBpgAG7CREdgAC3Bu0n6r5L1/+oib0+TGl57G/fW0dDMf1QJddcKBmdFACYxmNCAAIm6a0YAAiLhpRgMCIOKmGQ0IgIibZjQgACJumtGAAIhkaNpSe180d7A/imRA22rzleagOX4DLwvapq/MQ597zQ5VqDCUDe2lvWOnqyYaeC50qDptDG24a1UX+uHJ8U6LGTua4I2hxR36pyPAFh++8K1v3GnKhbI+nk2wBvhsaE8tFj8ETZ+WLGhrQcVfjpjm/9cyoM0FFS/85liZHs8p3/FF18rQtKJFpzzJaEDTaEYDAiDiphkNCICIm2Y0IAAibprRgACIuGlGAwIg4qYZDQiAyBu55h4pzCTngQAAAABJRU5ErkJggg=="
+                   transform="translate(116 254)"/>
+            <image width="40" height="113" preserveAspectRatio="none"
+                   xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAABxCAYAAACnf+FSAAABh0lEQVR4Xu3Y4W3CMBCG4WSACjYoI3SDMgpMUjoJjNJuwAiwAYgB4E5KUBTgx8d3SPx4I1lQ6nNOjw87uG3e/GrfPL+GBN0Zqhb8iYRyzJWbWB9Pgq4kggiKAnyLRbCb7ggiqAqwUKti4/4IIigKsFCLYGx15T87qUFqUBVgq1PFeFjgbMasGRZqE7BBEEFVgK1OFWOrY6sza4aF2gRkq3MBEURQFuBhQSYbBSCIoCjAw4IIxiE6h+huySCIoCrAQq2KjfsjiKAqwBO1KsYBJgeYZs2wUJuAHL+5gAjKgvOI+B5E5fvcPv8Gn/2P/pZu4u7Fs7jbNtrkwV2P8Xn2OUhZDTq7CeZQq2i5/t27frv/P5tfyc/Oadx9H+2jm95M5hztFO3T0cuBKgQfKdp6lQmmYtZiiuWVol+uXmWCOdYi2rpLcBmvm6cLbxBYNcX9kLvuzawiuWrBXjFfS/RekWAV3HWc6ikmwXIBd0CmGEFXwI2nBhF0Bdx4ahBBV8CNpwYRdAXc+Avsm2VyRMlcwQAAAABJRU5ErkJggg=="
+                   transform="translate(203 155.978)"/>
+        </g>
+    </symbol>
+    <symbol viewBox="0 0 293 410" id="node_modules--gulp-if--img--exclude">
+        <g>
+            <path fill="#FFF" d="M0 0h293v410H0z"/>
+            <image width="78" height="40" preserveAspectRatio="none"
+                   xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE4AAAAoCAYAAABQB8xaAAABWUlEQVRoQ+2VzQnCQBCFE9E+vHmwGQ9evNmCBYg/DWgJ2oElpBTtQM+K+AYSWELiZh/5geUFhuyGeZPMt29ImuiiCKSUSqJE4EgTCJzAkQRImRwncCQBUibHCRxJgJTJcQJHEiBlcpzAkQRImRwncCQBUhaL4xbo/4nISA7BsljA7dH5DnFDbBD3YBKBgtjAFe2fsTjkLgxE0iy9CtwW0jfik99t7duH5Lq1vs0+05tVOM5NfGFzygF6C4QmVIE7osgEMc7vtvbtQ3LdWva95UNhDmGGOvOa5m1sDew1FM6//KFHdVRxKMwhrFBnWdPoA8/XiCwmcG31UjWqBsyeX9p6iVtnaMe11ZMLrlNgxQfHBM7GsTOHlU84FnBTNGY/gd6uWMD1Biy2URW43gmQL9SoChxJgJTJcQJHEiBlcpzAkQRImRwncCQBUibHCRxJgJTJcQJHEiBlP8/MRiltdfU3AAAAAElFTkSuQmCC"
+                   transform="translate(115 139)"/>
+            <g transform="translate(124.775 136.28)">
+                <path fill="#FFF" d="M-2-3h23v18H-2z"/>
+                <text font-family="Arial" font-size="12" y="11">yes</text>
+            </g>
+            <image width="40" height="63" preserveAspectRatio="none"
+                   xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAA/CAYAAACSLYpOAAAB+0lEQVRoQ+2YPS9EYRCFdxsqGioKJBIaQkIiocAf8AMUtH6BSkJoqGiofCU0VDRUPhIqCqGhsg0ViY+KhnOSu7IRq9g5k0zxTnKS3Zu8c589M/Pe924+FzzywflyCdBaIQ8HZwH1Ac1Z4bjeA3AeeZ+hhaiAiwC7h5aiAi4D7AZaiQq4CrBzaC0q4BbADqDtqIA7ANvNZGb0mOI9ULHM+2Y6p22G5eUEH0YFPAIYN+vjqIBnAJvMJtnM6NGDF6CagC7NdE49eI28o9lmbWb0cPAWVCPQnZnOyUE+h4egQlTAB4D1Qo9RAZ8A1gbxyGUOjx58A1Uj9G6mc+pBnqZroM+ogF/KH64ucVVW2mqFe8yhBmRpOcW1UQHrsg26PipgA8D4LOYUS0Jd4mZQ8ZjVIqFz6EFu0DxRt0cF7AAYX5Y6owL2AIzvw3wWS0Ldg/2g4l8fAxI6hx7kMWsKGo4CyKkdK4Fpxec+iC/vjBPoFbqqFFhR4gJu3vQPAF0laEWhABzHndfL3P0U1wcrIssWKQCZqpyL3ZbyMrEK8C8XN5Gf102hAvztIk/V7MsXE53QQXKUujiD79NWOGWJiyzsRUaXwj0PwGLPbSjc8wBUcf3kUQ6JHC45qLA0ldjqYnIwOWh1wLo+9WBy0OqAdX3qweSg1QHr+tSDVge/AXk3RUBrNplBAAAAAElFTkSuQmCC"
+                   transform="translate(49 66)"/>
+            <path fill="#FFF" stroke="#333"
+                  d="M45 20h50c13.807 0 25 11.193 25 25s-11.193 25-25 25H45c-13.807 0-25-11.193-25-25s11.193-25 25-25z"
+                  stroke-miterlimit="10" stroke-width="2"/>
+            <text font-family="Arial" font-size="12" x="32.5" y="11" transform="translate(24 38)">input</text>
+            <path fill="#FFF" stroke="#333" d="M70 109l50 50-50 50-50-50 50-50z" stroke-miterlimit="10"
+                  stroke-width="2"/>
+            <g transform="translate(24 145)" font-family="Arial" font-size="12">
+                <text x="17" y="11">condition()</text>
+                <text x="25" y="25">is truthy</text>
+            </g>
+            <image width="40" height="63" preserveAspectRatio="none"
+                   xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAA/CAYAAACSLYpOAAAB+0lEQVRoQ+2YPS9EYRCFdxsqGioKJBIaQkIiocAf8AMUtH6BSkJoqGiofCU0VDRUPhIqCqGhsg0ViY+KhnOSu7IRq9g5k0zxTnKS3Zu8c589M/Pe924+FzzywflyCdBaIQ8HZwH1Ac1Z4bjeA3AeeZ+hhaiAiwC7h5aiAi4D7AZaiQq4CrBzaC0q4BbADqDtqIA7ANvNZGb0mOI9ULHM+2Y6p22G5eUEH0YFPAIYN+vjqIBnAJvMJtnM6NGDF6CagC7NdE49eI28o9lmbWb0cPAWVCPQnZnOyUE+h4egQlTAB4D1Qo9RAZ8A1gbxyGUOjx58A1Uj9G6mc+pBnqZroM+ogF/KH64ucVVW2mqFe8yhBmRpOcW1UQHrsg26PipgA8D4LOYUS0Jd4mZQ8ZjVIqFz6EFu0DxRt0cF7AAYX5Y6owL2AIzvw3wWS0Ldg/2g4l8fAxI6hx7kMWsKGo4CyKkdK4Fpxec+iC/vjBPoFbqqFFhR4gJu3vQPAF0laEWhABzHndfL3P0U1wcrIssWKQCZqpyL3ZbyMrEK8C8XN5Gf102hAvztIk/V7MsXE53QQXKUujiD79NWOGWJiyzsRUaXwj0PwGLPbSjc8wBUcf3kUQ6JHC45qLA0ldjqYnIwOWh1wLo+9WBy0OqAdX3qweSg1QHr+tSDVge/AXk3RUBrNplBAAAAAElFTkSuQmCC"
+                   transform="translate(49 204)"/>
+            <g transform="translate(77.636 215.406)">
+                <path fill="#FFF" d="M-2-3h18v18H-2z"/>
+                <text font-family="Arial" font-size="12" y="11">no</text>
+            </g>
+            <g transform="matrix(1 0 0 .5 20 249)">
+                <path fill="#FFF" d="M0 0h100v100H0V0z"/>
+                <path fill="none" stroke="#333" d="M0 0h100v50H0V0z" stroke-miterlimit="10" stroke-width="2"
+                      transform="scale(1 2)"/>
+            </g>
+            <text font-family="Arial" font-size="12" x="26.5" y="11" transform="translate(24 267)">stream</text>
+            <path fill="#FFF" stroke="#333"
+                  d="M45 340h50c13.807 0 25 11.193 25 25s-11.193 25-25 25H45c-13.807 0-25-11.193-25-25s11.193-25 25-25z"
+                  stroke-miterlimit="10" stroke-width="2"/>
+            <text font-family="Arial" font-size="12" x="29" y="11" transform="translate(24 358)">output</text>
+            <image width="40" height="65" preserveAspectRatio="none"
+                   xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAABBCAYAAACjBeb/AAABJ0lEQVRoQ+2Y0Q2CQBBEoQCjHUgnWopWIlaiLdiBJViCdqCxAN1JIEHFj2XGyMdcsjkC7Dp5O9whZTHyUY5cX2GBbIfUBDchCDVrVlibb4EsSRM0wSQBP8VJYB+3m6AJZgl4oc4Se7/fBE0wScALdRKYtzr530570B7MEvBWlyXmlwV/myE944U6C3AZCYtOEo6xdB075w5xfMoWVn0fnEWhc8T0i4BbnK8irv8SiN+tI+C9vrFtrg/VJ3mbAcVLxKRpL8Q8Iu4Rc4YeCqm2uj6KND2lQNSCF0EMA0SrwX3tJKoIouQqYtfUXse8H5vAliJmCT11i1uKmCX0fiFQ0dWXGkoPysWZoAKpW8xSNEETZAmw+fagCbIE2Hx70ARZAmy+PcgSfAKokjRCVax9mQAAAABJRU5ErkJggg=="
+                   transform="translate(50 295)"/>
+            <g transform="matrix(1 0 0 .5 173 134)">
+                <path fill="#FFF" d="M0 0h100v100H0V0z"/>
+                <path fill="none" stroke="#333" d="M0 0h100v50H0V0z" stroke-miterlimit="10" stroke-width="2"
+                      transform="scale(1 2)"/>
+            </g>
+            <text font-family="Arial" font-size="12" x="14.5" y="11" transform="translate(177 152)">(discarded)</text>
+        </g>
+    </symbol>
+    <symbol viewBox="0 0 140 180" id="node_modules--gulp-if--img--glob">
+        <g>
+            <path fill="#FFF" d="M0 0h140v180H0z"/>
+            <image width="40" height="64" preserveAspectRatio="none"
+                   xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAABACAYAAABoWTVaAAABKUlEQVRoQ+2Y3Q3CMAyE2wEQbEA3gVFgEsoksAIbMAIjwAYgBgCflEgFyoNzRuThIlmp2tq9fHbdn7apfLSV62skkM1QNMGNCULMnhWW/SWQJSmCIugkoLvYCezjdBEUQS8BNWovsffzRVAEnQTUqJ3A9KgL/+xUDaoGvQT0qPMS08uC/s2QNVNdo17aghaDRWEbneE42Hew7VPpwtk2M7MLn82mXwTcbH9ndv2XQFy3N0Nqx8Y2HS/VF/KyAIoXs0lKL8Q8zO5mc4YeArEpzmTGKNL0IgUiFmoRxDBAtCvO68AxiiBCrsx2Kfba5n1tAjNFzCH0olOcKWIOofcLgRFZfYkRWYPh4kQwAqlSzFIUQRFkCbD+qkERZAmw/qpBEWQJsP6qQZbgE3PaM0FYGoD6AAAAAElFTkSuQmCC"
+                   transform="translate(50 66)"/>
+            <path fill="#FFF" stroke="#333"
+                  d="M45 20h50c13.807 0 25 11.193 25 25s-11.193 25-25 25H45c-13.807 0-25-11.193-25-25s11.193-25 25-25z"
+                  stroke-miterlimit="10" stroke-width="2"/>
+            <g transform="translate(24 31)" font-family="Arial" font-size="12">
+                <text x="32.5" y="11">input</text>
+                <text x="23.5" y="25">(filtered)</text>
+            </g>
+            <path fill="#FFF" stroke="#333"
+                  d="M45 110h50c13.807 0 25 11.193 25 25s-11.193 25-25 25H45c-13.807 0-25-11.193-25-25s11.193-25 25-25z"
+                  stroke-miterlimit="10" stroke-width="2"/>
+            <text font-family="Arial" font-size="12" x="29" y="11" transform="translate(24 128)">output</text>
+        </g>
+    </symbol>
+    <symbol viewBox="0 0 290 319" id="node_modules--gulp-if--img--ternary">
+        <g>
+            <path fill="#FFF" d="M0 0h290v319H0z"/>
+            <image width="78" height="40" preserveAspectRatio="none"
+                   xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE4AAAAoCAYAAABQB8xaAAABCklEQVRoQ+3W0Q0BQRSFYVsZHdEBHaADOlICHaAB7k1231ay/hjh5p9k4sXZmG/PjOlmDiTQoZShmXCwBMIJBwVgzMYJBwVgzMYJBwVgzMYJBwVgzMYJBwVgzMYJBwVgrErjFrH+U8wrdHg7VgVuEytfxtzF3H8DsBLcuq/NLT63rQErwj0CLdd1jplNPL69DycExuCGNzch/jNfyTMu59hoAjgGl2/p30aizV/86EvfvMMnF1V5qzYBG/Arwt37P4emO6cS3CrA8jqSs/l9rgpcnnFegD95iLd6VpXGtfJ5+VzhILlwwkEBGLNxwkEBGLNxwkEBGLNxwkEBGLNxwkEBGLNxwkEBGHsCMP0fKZ4lR9oAAAAASUVORK5CYII="
+                   transform="translate(116 138)"/>
+            <g transform="translate(128 136)">
+                <path fill="#FFF" d="M-2-3h18v18H-2z"/>
+                <text font-family="Arial" font-size="12" y="11">no</text>
+            </g>
+            <image width="40" height="63" preserveAspectRatio="none"
+                   xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAA/CAYAAACSLYpOAAAB+0lEQVRoQ+2YPS9EYRCFdxsqGioKJBIaQkIiocAf8AMUtH6BSkJoqGiofCU0VDRUPhIqCqGhsg0ViY+KhnOSu7IRq9g5k0zxTnKS3Zu8c589M/Pe924+FzzywflyCdBaIQ8HZwH1Ac1Z4bjeA3AeeZ+hhaiAiwC7h5aiAi4D7AZaiQq4CrBzaC0q4BbADqDtqIA7ANvNZGb0mOI9ULHM+2Y6p22G5eUEH0YFPAIYN+vjqIBnAJvMJtnM6NGDF6CagC7NdE49eI28o9lmbWb0cPAWVCPQnZnOyUE+h4egQlTAB4D1Qo9RAZ8A1gbxyGUOjx58A1Uj9G6mc+pBnqZroM+ogF/KH64ucVVW2mqFe8yhBmRpOcW1UQHrsg26PipgA8D4LOYUS0Jd4mZQ8ZjVIqFz6EFu0DxRt0cF7AAYX5Y6owL2AIzvw3wWS0Ldg/2g4l8fAxI6hx7kMWsKGo4CyKkdK4Fpxec+iC/vjBPoFbqqFFhR4gJu3vQPAF0laEWhABzHndfL3P0U1wcrIssWKQCZqpyL3ZbyMrEK8C8XN5Gf102hAvztIk/V7MsXE53QQXKUujiD79NWOGWJiyzsRUaXwj0PwGLPbSjc8wBUcf3kUQ6JHC45qLA0ldjqYnIwOWh1wLo+9WBy0OqAdX3qweSg1QHr+tSDVge/AXk3RUBrNplBAAAAAElFTkSuQmCC"
+                   transform="translate(50 66)"/>
+            <path fill="#FFF" stroke="#333"
+                  d="M46 20h50c13.807 0 25 11.193 25 25s-11.193 25-25 25H46c-13.807 0-25-11.193-25-25s11.193-25 25-25z"
+                  stroke-miterlimit="10" stroke-width="2"/>
+            <text font-family="Arial" font-size="12" x="32.5" y="11" transform="translate(25 38)">input</text>
+            <path fill="#FFF" stroke="#333" d="M71 109l50 50-50 50-50-50 50-50z" stroke-miterlimit="10"
+                  stroke-width="2"/>
+            <g transform="translate(25 145)" font-family="Arial" font-size="12">
+                <text x="17" y="11">condition()</text>
+                <text x="25" y="25">is truthy</text>
+            </g>
+            <image width="40" height="63" preserveAspectRatio="none"
+                   xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAA/CAYAAACSLYpOAAAB+0lEQVRoQ+2YPS9EYRCFdxsqGioKJBIaQkIiocAf8AMUtH6BSkJoqGiofCU0VDRUPhIqCqGhsg0ViY+KhnOSu7IRq9g5k0zxTnKS3Zu8c589M/Pe924+FzzywflyCdBaIQ8HZwH1Ac1Z4bjeA3AeeZ+hhaiAiwC7h5aiAi4D7AZaiQq4CrBzaC0q4BbADqDtqIA7ANvNZGb0mOI9ULHM+2Y6p22G5eUEH0YFPAIYN+vjqIBnAJvMJtnM6NGDF6CagC7NdE49eI28o9lmbWb0cPAWVCPQnZnOyUE+h4egQlTAB4D1Qo9RAZ8A1gbxyGUOjx58A1Uj9G6mc+pBnqZroM+ogF/KH64ucVVW2mqFe8yhBmRpOcW1UQHrsg26PipgA8D4LOYUS0Jd4mZQ8ZjVIqFz6EFu0DxRt0cF7AAYX5Y6owL2AIzvw3wWS0Ldg/2g4l8fAxI6hx7kMWsKGo4CyKkdK4Fpxec+iC/vjBPoFbqqFFhR4gJu3vQPAF0laEWhABzHndfL3P0U1wcrIssWKQCZqpyL3ZbyMrEK8C8XN5Gf102hAvztIk/V7MsXE53QQXKUujiD79NWOGWJiyzsRUaXwj0PwGLPbSjc8wBUcf3kUQ6JHC45qLA0ldjqYnIwOWh1wLo+9WBy0OqAdX3qweSg1QHr+tSDVge/AXk3RUBrNplBAAAAAElFTkSuQmCC"
+                   transform="translate(50 204)"/>
+            <g transform="translate(76.136 215.406)">
+                <path fill="#FFF" d="M-2-3h23v18H-2z"/>
+                <text font-family="Arial" font-size="12" y="11">yes</text>
+            </g>
+            <g transform="matrix(1 0 0 .5 21 249)">
+                <path fill="#FFF" d="M0 0h100v100H0V0z"/>
+                <path fill="none" stroke="#333" d="M0 0h100v50H0V0z" stroke-miterlimit="10" stroke-width="2"
+                      transform="scale(1 2)"/>
+            </g>
+            <text font-family="Arial" font-size="12" x="26.5" y="11" transform="translate(25 267)">stream</text>
+            <g transform="matrix(1 0 0 .5 170 134)">
+                <path fill="#FFF" d="M0 0h100v100H0V0z"/>
+                <path fill="none" stroke="#333" d="M0 0h100v50H0V0z" stroke-miterlimit="10" stroke-width="2"
+                      transform="scale(1 2)"/>
+            </g>
+            <text font-family="Arial" font-size="12" x="13" y="11" transform="translate(174 152)">else stream</text>
+            <path fill="#FFF" stroke="#333"
+                  d="M195 249h50c13.807 0 25 11.193 25 25s-11.193 25-25 25h-50c-13.807 0-25-11.193-25-25s11.193-25 25-25z"
+                  stroke-miterlimit="10" stroke-width="2"/>
+            <text font-family="Arial" font-size="12" x="29" y="11" transform="translate(174 267)">output</text>
+            <image width="40" height="89" preserveAspectRatio="none"
+                   xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAABZCAYAAABMgGYJAAABVUlEQVRoQ+3Y8Q3BUBDH8XYAYQM2YRQmUZOwgg2MYAQ2IAbgLulLqvjj/E70j2+Tlzb0zuXzrn3Vuhr4Vg+8vooC1RnKFlxbQZ6zUQsr8RSoSiKIYFCAqzgI9nI6gghGBbhRR8X65yOIYFCAG3UQjKUu/W8nPUgPRgVY6qJiPCzwbkbsGW7UImCFIIJRAZa6qBhLHUud2DPcqEVAljoVEEEEwwI8LITJegEIIhgU4GEhCFYtLGDeCfJjv/AOnc/2dnyMJi7nq1fxxBKdbIw/FHC1z2c2Lv8q0H+3seG9927btN9/W1/KW35XPNsYtdPrxdxt3GxMFT1PpE5xkXmnKOtlFui5vBddzDcXnX09r53ALEFPubSxbXOvbL8bWoFF0fcpetlTXBR9n6L3iwIzZvUpR2YPpheHYAYpU6wqIoigKqDG04MIqgJqPD2IoCqgxtODquADDetMWrW+yc8AAAAASUVORK5CYII="
+                   transform="translate(200 180)"/>
+            <image width="73" height="40" preserveAspectRatio="none"
+                   xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEkAAAAoCAYAAACy29cjAAABFUlEQVRoQ+3W0RHBUBCF4aQjHdARHaACdEBHSqADNMDuTPJ2M/kfdo01JzM7Xs6E/XJyR9/pmhXoZxMKdEICJRCSkIAAiKhJQgICIKImCQkIgIiaJCQgACJqkpCAAIioSUICAiBSsUkr2+tq8wD7hUQqIu1s87XN0eb0DayqSNuhIk/7PNjsQyozcZPqSG/by3e42XjDLhlYLaTxKWV8X8Q9/UzyaV0pWC0kfyK/fDnQcuIH3odGnSMX+JfXLQVnhK6O9LJF/OBObX9VpI3B+F8An/T/SxWRFgbjB3Q6TuXXLfJMRveq2CS0WGRISEBTSEICAiCiJgkJCICImiQkIAAiapKQgACIqElCAgIgoiYJCQiAyAfiCx4p5dO7EAAAAABJRU5ErkJggg=="
+                   transform="translate(117 254)"/>
+        </g>
+    </symbol>
+    <symbol viewBox="0 0 293 319" id="node_modules--sprity--node_modules--ternary-stream--img--condition">
+        <g>
+            <path fill="#FFF" d="M0 0h293v319H0z"/>
+            <image width="129" height="40" preserveAspectRatio="none"
+                   xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIEAAAAoCAYAAADZs5l2AAABaklEQVR4Xu2Y4QnCQAxG28l0I91AnUDdQDdyBN1AXUATaaE/ql8puSrxHYSCxNzlyzMXW1esv1eg/nsFEKACAiAAAhiogAAIgAAGTAFmAjAAAhigE8AA1wEMuALMBHAABDBAJ4ABrgMYYCaAgZcCDIa/B8LcjnQyu051NCCYSunh+6zNdWG2M9tPAQMQDC/OVJ4OwarZ7GbPrdmm5OZAUFLdcbG7EDyaK/tsT//8OC7k52/1QdBSWGI/YmoFfCZw61tFYOiDwIljfU8BB2D2ZvtL0xEOkcfjOohUMyaW/wjbbtxeB0WK3x4XCGIKFxmlC8HdAvtgWLQ7A0Fk+WJiecGXZv4X0a34+wIgiClcZBSfCXhZFKkosbQCdAKtUXoPIEhfYp0gEGiN0nsAQfoS6wSBQGuU3gMI0pdYJwgEWqP0HkCQvsQ6QSDQGqX3AIL0JdYJAoHWKL0HEKQvsU4QCLRG6T2AIH2JdYJPsCceKQaweuUAAAAASUVORK5CYII="
+                   transform="translate(115 138)"/>
+            <g transform="translate(127 136)">
+                <path fill="#FFF" d="M-2-3h18v18H-2z"/>
+                <text font-family="Arial" font-size="12" y="11">no</text>
+            </g>
+            <image width="40" height="63" preserveAspectRatio="none"
+                   xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAA/CAYAAACSLYpOAAAB+0lEQVRoQ+2YPS9EYRCFdxsqGioKJBIaQkIiocAf8AMUtH6BSkJoqGiofCU0VDRUPhIqCqGhsg0ViY+KhnOSu7IRq9g5k0zxTnKS3Zu8c589M/Pe924+FzzywflyCdBaIQ8HZwH1Ac1Z4bjeA3AeeZ+hhaiAiwC7h5aiAi4D7AZaiQq4CrBzaC0q4BbADqDtqIA7ANvNZGb0mOI9ULHM+2Y6p22G5eUEH0YFPAIYN+vjqIBnAJvMJtnM6NGDF6CagC7NdE49eI28o9lmbWb0cPAWVCPQnZnOyUE+h4egQlTAB4D1Qo9RAZ8A1gbxyGUOjx58A1Uj9G6mc+pBnqZroM+ogF/KH64ucVVW2mqFe8yhBmRpOcW1UQHrsg26PipgA8D4LOYUS0Jd4mZQ8ZjVIqFz6EFu0DxRt0cF7AAYX5Y6owL2AIzvw3wWS0Ldg/2g4l8fAxI6hx7kMWsKGo4CyKkdK4Fpxec+iC/vjBPoFbqqFFhR4gJu3vQPAF0laEWhABzHndfL3P0U1wcrIssWKQCZqpyL3ZbyMrEK8C8XN5Gf102hAvztIk/V7MsXE53QQXKUujiD79NWOGWJiyzsRUaXwj0PwGLPbSjc8wBUcf3kUQ6JHC45qLA0ldjqYnIwOWh1wLo+9WBy0OqAdX3qweSg1QHr+tSDVge/AXk3RUBrNplBAAAAAElFTkSuQmCC"
+                   transform="translate(49 66)"/>
+            <path fill="#FFF" stroke="#333"
+                  d="M45 20h50c13.807 0 25 11.193 25 25s-11.193 25-25 25H45c-13.807 0-25-11.193-25-25s11.193-25 25-25z"
+                  stroke-miterlimit="10" stroke-width="2"/>
+            <text font-family="Arial" font-size="12" x="32.5" y="11" transform="translate(24 38)">input</text>
+            <path fill="#FFF" stroke="#333" d="M70 109l50 50-50 50-50-50 50-50z" stroke-miterlimit="10"
+                  stroke-width="2"/>
+            <g transform="translate(24 145)" font-family="Arial" font-size="12">
+                <text x="17" y="11">condition()</text>
+                <text x="25" y="25">is truthy</text>
+            </g>
+            <image width="40" height="63" preserveAspectRatio="none"
+                   xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAA/CAYAAACSLYpOAAAB+0lEQVRoQ+2YPS9EYRCFdxsqGioKJBIaQkIiocAf8AMUtH6BSkJoqGiofCU0VDRUPhIqCqGhsg0ViY+KhnOSu7IRq9g5k0zxTnKS3Zu8c589M/Pe924+FzzywflyCdBaIQ8HZwH1Ac1Z4bjeA3AeeZ+hhaiAiwC7h5aiAi4D7AZaiQq4CrBzaC0q4BbADqDtqIA7ANvNZGb0mOI9ULHM+2Y6p22G5eUEH0YFPAIYN+vjqIBnAJvMJtnM6NGDF6CagC7NdE49eI28o9lmbWb0cPAWVCPQnZnOyUE+h4egQlTAB4D1Qo9RAZ8A1gbxyGUOjx58A1Uj9G6mc+pBnqZroM+ogF/KH64ucVVW2mqFe8yhBmRpOcW1UQHrsg26PipgA8D4LOYUS0Jd4mZQ8ZjVIqFz6EFu0DxRt0cF7AAYX5Y6owL2AIzvw3wWS0Ldg/2g4l8fAxI6hx7kMWsKGo4CyKkdK4Fpxec+iC/vjBPoFbqqFFhR4gJu3vQPAF0laEWhABzHndfL3P0U1wcrIssWKQCZqpyL3ZbyMrEK8C8XN5Gf102hAvztIk/V7MsXE53QQXKUujiD79NWOGWJiyzsRUaXwj0PwGLPbSjc8wBUcf3kUQ6JHC45qLA0ldjqYnIwOWh1wLo+9WBy0OqAdX3qweSg1QHr+tSDVge/AXk3RUBrNplBAAAAAElFTkSuQmCC"
+                   transform="translate(49 204)"/>
+            <g transform="translate(75.136 215.406)">
+                <path fill="#FFF" d="M-2-3h23v18H-2z"/>
+                <text font-family="Arial" font-size="12" y="11">yes</text>
+            </g>
+            <g transform="matrix(1 0 0 .5 20 249)">
+                <path fill="#FFF" d="M0 0h100v100H0V0z"/>
+                <path fill="none" stroke="#333" d="M0 0h100v50H0V0z" stroke-miterlimit="10" stroke-width="2"
+                      transform="scale(1 2)"/>
+            </g>
+            <text font-family="Arial" font-size="12" x="26.5" y="11" transform="translate(24 267)">stream</text>
+            <path fill="#FFF" stroke="#333"
+                  d="M198 249h50c13.807 0 25 11.193 25 25s-11.193 25-25 25h-50c-13.807 0-25-11.193-25-25s11.193-25 25-25z"
+                  stroke-miterlimit="10" stroke-width="2"/>
+            <text font-family="Arial" font-size="12" x="29" y="11" transform="translate(177 267)">output</text>
+            <image width="77" height="40" preserveAspectRatio="none"
+                   xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAoCAYAAAC7MHdZAAABGElEQVRoQ+3W4Q3BUBTFcd3IBmzEBpgAG7CREdgAC3Bu0n6r5L1/+oib0+TGl57G/fW0dDMf1QJddcKBmdFACYxmNCAAIm6a0YAAiLhpRgMCIOKmGQ0IgIibZjQgACJumtGAAIhkaNpSe180d7A/imRA22rzleagOX4DLwvapq/MQ597zQ5VqDCUDe2lvWOnqyYaeC50qDptDG24a1UX+uHJ8U6LGTua4I2hxR36pyPAFh++8K1v3GnKhbI+nk2wBvhsaE8tFj8ETZ+WLGhrQcVfjpjm/9cyoM0FFS/85liZHs8p3/FF18rQtKJFpzzJaEDTaEYDAiDiphkNCICIm2Y0IAAibprRgACIuGlGAwIg4qYZDQiAyBu55h4pzCTngQAAAABJRU5ErkJggg=="
+                   transform="translate(116 254)"/>
+            <image width="40" height="113" preserveAspectRatio="none"
+                   xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAABxCAYAAACnf+FSAAABh0lEQVR4Xu3Y4W3CMBCG4WSACjYoI3SDMgpMUjoJjNJuwAiwAYgB4E5KUBTgx8d3SPx4I1lQ6nNOjw87uG3e/GrfPL+GBN0Zqhb8iYRyzJWbWB9Pgq4kggiKAnyLRbCb7ggiqAqwUKti4/4IIigKsFCLYGx15T87qUFqUBVgq1PFeFjgbMasGRZqE7BBEEFVgK1OFWOrY6sza4aF2gRkq3MBEURQFuBhQSYbBSCIoCjAw4IIxiE6h+huySCIoCrAQq2KjfsjiKAqwBO1KsYBJgeYZs2wUJuAHL+5gAjKgvOI+B5E5fvcPv8Gn/2P/pZu4u7Fs7jbNtrkwV2P8Xn2OUhZDTq7CeZQq2i5/t27frv/P5tfyc/Oadx9H+2jm95M5hztFO3T0cuBKgQfKdp6lQmmYtZiiuWVol+uXmWCOdYi2rpLcBmvm6cLbxBYNcX9kLvuzawiuWrBXjFfS/RekWAV3HWc6ikmwXIBd0CmGEFXwI2nBhF0Bdx4ahBBV8CNpwYRdAXc+Avsm2VyRMlcwQAAAABJRU5ErkJggg=="
+                   transform="translate(203 155.978)"/>
+        </g>
+    </symbol>
+    <symbol viewBox="0 0 290 319" id="node_modules--sprity--node_modules--ternary-stream--img--ternary">
+        <g>
+            <path fill="#FFF" d="M0 0h290v319H0z"/>
+            <image width="78" height="40" preserveAspectRatio="none"
+                   xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE4AAAAoCAYAAABQB8xaAAABCklEQVRoQ+3W0Q0BQRSFYVsZHdEBHaADOlICHaAB7k1231ay/hjh5p9k4sXZmG/PjOlmDiTQoZShmXCwBMIJBwVgzMYJBwVgzMYJBwVgzMYJBwVgzMYJBwVgzMYJBwVgrErjFrH+U8wrdHg7VgVuEytfxtzF3H8DsBLcuq/NLT63rQErwj0CLdd1jplNPL69DycExuCGNzch/jNfyTMu59hoAjgGl2/p30aizV/86EvfvMMnF1V5qzYBG/Arwt37P4emO6cS3CrA8jqSs/l9rgpcnnFegD95iLd6VpXGtfJ5+VzhILlwwkEBGLNxwkEBGLNxwkEBGLNxwkEBGLNxwkEBGLNxwkEBGHsCMP0fKZ4lR9oAAAAASUVORK5CYII="
+                   transform="translate(116 138)"/>
+            <g transform="translate(128 136)">
+                <path fill="#FFF" d="M-2-3h18v18H-2z"/>
+                <text font-family="Arial" font-size="12" y="11">no</text>
+            </g>
+            <image width="40" height="63" preserveAspectRatio="none"
+                   xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAA/CAYAAACSLYpOAAAB+0lEQVRoQ+2YPS9EYRCFdxsqGioKJBIaQkIiocAf8AMUtH6BSkJoqGiofCU0VDRUPhIqCqGhsg0ViY+KhnOSu7IRq9g5k0zxTnKS3Zu8c589M/Pe924+FzzywflyCdBaIQ8HZwH1Ac1Z4bjeA3AeeZ+hhaiAiwC7h5aiAi4D7AZaiQq4CrBzaC0q4BbADqDtqIA7ANvNZGb0mOI9ULHM+2Y6p22G5eUEH0YFPAIYN+vjqIBnAJvMJtnM6NGDF6CagC7NdE49eI28o9lmbWb0cPAWVCPQnZnOyUE+h4egQlTAB4D1Qo9RAZ8A1gbxyGUOjx58A1Uj9G6mc+pBnqZroM+ogF/KH64ucVVW2mqFe8yhBmRpOcW1UQHrsg26PipgA8D4LOYUS0Jd4mZQ8ZjVIqFz6EFu0DxRt0cF7AAYX5Y6owL2AIzvw3wWS0Ldg/2g4l8fAxI6hx7kMWsKGo4CyKkdK4Fpxec+iC/vjBPoFbqqFFhR4gJu3vQPAF0laEWhABzHndfL3P0U1wcrIssWKQCZqpyL3ZbyMrEK8C8XN5Gf102hAvztIk/V7MsXE53QQXKUujiD79NWOGWJiyzsRUaXwj0PwGLPbSjc8wBUcf3kUQ6JHC45qLA0ldjqYnIwOWh1wLo+9WBy0OqAdX3qweSg1QHr+tSDVge/AXk3RUBrNplBAAAAAElFTkSuQmCC"
+                   transform="translate(50 66)"/>
+            <path fill="#FFF" stroke="#333"
+                  d="M46 20h50c13.807 0 25 11.193 25 25s-11.193 25-25 25H46c-13.807 0-25-11.193-25-25s11.193-25 25-25z"
+                  stroke-miterlimit="10" stroke-width="2"/>
+            <text font-family="Arial" font-size="12" x="32.5" y="11" transform="translate(25 38)">input</text>
+            <path fill="#FFF" stroke="#333" d="M71 109l50 50-50 50-50-50 50-50z" stroke-miterlimit="10"
+                  stroke-width="2"/>
+            <g transform="translate(25 145)" font-family="Arial" font-size="12">
+                <text x="17" y="11">condition()</text>
+                <text x="25" y="25">is truthy</text>
+            </g>
+            <image width="40" height="63" preserveAspectRatio="none"
+                   xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAA/CAYAAACSLYpOAAAB+0lEQVRoQ+2YPS9EYRCFdxsqGioKJBIaQkIiocAf8AMUtH6BSkJoqGiofCU0VDRUPhIqCqGhsg0ViY+KhnOSu7IRq9g5k0zxTnKS3Zu8c589M/Pe924+FzzywflyCdBaIQ8HZwH1Ac1Z4bjeA3AeeZ+hhaiAiwC7h5aiAi4D7AZaiQq4CrBzaC0q4BbADqDtqIA7ANvNZGb0mOI9ULHM+2Y6p22G5eUEH0YFPAIYN+vjqIBnAJvMJtnM6NGDF6CagC7NdE49eI28o9lmbWb0cPAWVCPQnZnOyUE+h4egQlTAB4D1Qo9RAZ8A1gbxyGUOjx58A1Uj9G6mc+pBnqZroM+ogF/KH64ucVVW2mqFe8yhBmRpOcW1UQHrsg26PipgA8D4LOYUS0Jd4mZQ8ZjVIqFz6EFu0DxRt0cF7AAYX5Y6owL2AIzvw3wWS0Ldg/2g4l8fAxI6hx7kMWsKGo4CyKkdK4Fpxec+iC/vjBPoFbqqFFhR4gJu3vQPAF0laEWhABzHndfL3P0U1wcrIssWKQCZqpyL3ZbyMrEK8C8XN5Gf102hAvztIk/V7MsXE53QQXKUujiD79NWOGWJiyzsRUaXwj0PwGLPbSjc8wBUcf3kUQ6JHC45qLA0ldjqYnIwOWh1wLo+9WBy0OqAdX3qweSg1QHr+tSDVge/AXk3RUBrNplBAAAAAElFTkSuQmCC"
+                   transform="translate(50 204)"/>
+            <g transform="translate(76.136 215.406)">
+                <path fill="#FFF" d="M-2-3h23v18H-2z"/>
+                <text font-family="Arial" font-size="12" y="11">yes</text>
+            </g>
+            <g transform="matrix(1 0 0 .5 21 249)">
+                <path fill="#FFF" d="M0 0h100v100H0V0z"/>
+                <path fill="none" stroke="#333" d="M0 0h100v50H0V0z" stroke-miterlimit="10" stroke-width="2"
+                      transform="scale(1 2)"/>
+            </g>
+            <text font-family="Arial" font-size="12" x="26.5" y="11" transform="translate(25 267)">stream</text>
+            <g transform="matrix(1 0 0 .5 170 134)">
+                <path fill="#FFF" d="M0 0h100v100H0V0z"/>
+                <path fill="none" stroke="#333" d="M0 0h100v50H0V0z" stroke-miterlimit="10" stroke-width="2"
+                      transform="scale(1 2)"/>
+            </g>
+            <text font-family="Arial" font-size="12" x="13" y="11" transform="translate(174 152)">else stream</text>
+            <path fill="#FFF" stroke="#333"
+                  d="M195 249h50c13.807 0 25 11.193 25 25s-11.193 25-25 25h-50c-13.807 0-25-11.193-25-25s11.193-25 25-25z"
+                  stroke-miterlimit="10" stroke-width="2"/>
+            <text font-family="Arial" font-size="12" x="29" y="11" transform="translate(174 267)">output</text>
+            <image width="40" height="89" preserveAspectRatio="none"
+                   xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAABZCAYAAABMgGYJAAABVUlEQVRoQ+3Y8Q3BUBDH8XYAYQM2YRQmUZOwgg2MYAQ2IAbgLulLqvjj/E70j2+Tlzb0zuXzrn3Vuhr4Vg+8vooC1RnKFlxbQZ6zUQsr8RSoSiKIYFCAqzgI9nI6gghGBbhRR8X65yOIYFCAG3UQjKUu/W8nPUgPRgVY6qJiPCzwbkbsGW7UImCFIIJRAZa6qBhLHUud2DPcqEVAljoVEEEEwwI8LITJegEIIhgU4GEhCFYtLGDeCfJjv/AOnc/2dnyMJi7nq1fxxBKdbIw/FHC1z2c2Lv8q0H+3seG9927btN9/W1/KW35XPNsYtdPrxdxt3GxMFT1PpE5xkXmnKOtlFui5vBddzDcXnX09r53ALEFPubSxbXOvbL8bWoFF0fcpetlTXBR9n6L3iwIzZvUpR2YPpheHYAYpU6wqIoigKqDG04MIqgJqPD2IoCqgxtODquADDetMWrW+yc8AAAAASUVORK5CYII="
+                   transform="translate(200 180)"/>
+            <image width="73" height="40" preserveAspectRatio="none"
+                   xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEkAAAAoCAYAAACy29cjAAABFUlEQVRoQ+3W0RHBUBCF4aQjHdARHaACdEBHSqADNMDuTPJ2M/kfdo01JzM7Xs6E/XJyR9/pmhXoZxMKdEICJRCSkIAAiKhJQgICIKImCQkIgIiaJCQgACJqkpCAAIioSUICAiBSsUkr2+tq8wD7hUQqIu1s87XN0eb0DayqSNuhIk/7PNjsQyozcZPqSG/by3e42XjDLhlYLaTxKWV8X8Q9/UzyaV0pWC0kfyK/fDnQcuIH3odGnSMX+JfXLQVnhK6O9LJF/OBObX9VpI3B+F8An/T/SxWRFgbjB3Q6TuXXLfJMRveq2CS0WGRISEBTSEICAiCiJgkJCICImiQkIAAiapKQgACIqElCAgIgoiYJCQiAyAfiCx4p5dO7EAAAAABJRU5ErkJggg=="
+                   transform="translate(117 254)"/>
+        </g>
+    </symbol>
+    <symbol viewBox="0 0 293 319" id="node_modules--ternary-stream--img--condition">
+        <g>
+            <path fill="#FFF" d="M0 0h293v319H0z"/>
+            <image width="129" height="40" preserveAspectRatio="none"
+                   xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIEAAAAoCAYAAADZs5l2AAABaklEQVR4Xu2Y4QnCQAxG28l0I91AnUDdQDdyBN1AXUATaaE/ql8puSrxHYSCxNzlyzMXW1esv1eg/nsFEKACAiAAAhiogAAIgAAGTAFmAjAAAhigE8AA1wEMuALMBHAABDBAJ4ABrgMYYCaAgZcCDIa/B8LcjnQyu051NCCYSunh+6zNdWG2M9tPAQMQDC/OVJ4OwarZ7GbPrdmm5OZAUFLdcbG7EDyaK/tsT//8OC7k52/1QdBSWGI/YmoFfCZw61tFYOiDwIljfU8BB2D2ZvtL0xEOkcfjOohUMyaW/wjbbtxeB0WK3x4XCGIKFxmlC8HdAvtgWLQ7A0Fk+WJiecGXZv4X0a34+wIgiClcZBSfCXhZFKkosbQCdAKtUXoPIEhfYp0gEGiN0nsAQfoS6wSBQGuU3gMI0pdYJwgEWqP0HkCQvsQ6QSDQGqX3AIL0JdYJAoHWKL0HEKQvsU4QCLRG6T2AIH2JdYJPsCceKQaweuUAAAAASUVORK5CYII="
+                   transform="translate(115 138)"/>
+            <g transform="translate(127 136)">
+                <path fill="#FFF" d="M-2-3h18v18H-2z"/>
+                <text font-family="Arial" font-size="12" y="11">no</text>
+            </g>
+            <image width="40" height="63" preserveAspectRatio="none"
+                   xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAA/CAYAAACSLYpOAAAB+0lEQVRoQ+2YPS9EYRCFdxsqGioKJBIaQkIiocAf8AMUtH6BSkJoqGiofCU0VDRUPhIqCqGhsg0ViY+KhnOSu7IRq9g5k0zxTnKS3Zu8c589M/Pe924+FzzywflyCdBaIQ8HZwH1Ac1Z4bjeA3AeeZ+hhaiAiwC7h5aiAi4D7AZaiQq4CrBzaC0q4BbADqDtqIA7ANvNZGb0mOI9ULHM+2Y6p22G5eUEH0YFPAIYN+vjqIBnAJvMJtnM6NGDF6CagC7NdE49eI28o9lmbWb0cPAWVCPQnZnOyUE+h4egQlTAB4D1Qo9RAZ8A1gbxyGUOjx58A1Uj9G6mc+pBnqZroM+ogF/KH64ucVVW2mqFe8yhBmRpOcW1UQHrsg26PipgA8D4LOYUS0Jd4mZQ8ZjVIqFz6EFu0DxRt0cF7AAYX5Y6owL2AIzvw3wWS0Ldg/2g4l8fAxI6hx7kMWsKGo4CyKkdK4Fpxec+iC/vjBPoFbqqFFhR4gJu3vQPAF0laEWhABzHndfL3P0U1wcrIssWKQCZqpyL3ZbyMrEK8C8XN5Gf102hAvztIk/V7MsXE53QQXKUujiD79NWOGWJiyzsRUaXwj0PwGLPbSjc8wBUcf3kUQ6JHC45qLA0ldjqYnIwOWh1wLo+9WBy0OqAdX3qweSg1QHr+tSDVge/AXk3RUBrNplBAAAAAElFTkSuQmCC"
+                   transform="translate(49 66)"/>
+            <path fill="#FFF" stroke="#333"
+                  d="M45 20h50c13.807 0 25 11.193 25 25s-11.193 25-25 25H45c-13.807 0-25-11.193-25-25s11.193-25 25-25z"
+                  stroke-miterlimit="10" stroke-width="2"/>
+            <text font-family="Arial" font-size="12" x="32.5" y="11" transform="translate(24 38)">input</text>
+            <path fill="#FFF" stroke="#333" d="M70 109l50 50-50 50-50-50 50-50z" stroke-miterlimit="10"
+                  stroke-width="2"/>
+            <g transform="translate(24 145)" font-family="Arial" font-size="12">
+                <text x="17" y="11">condition()</text>
+                <text x="25" y="25">is truthy</text>
+            </g>
+            <image width="40" height="63" preserveAspectRatio="none"
+                   xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAA/CAYAAACSLYpOAAAB+0lEQVRoQ+2YPS9EYRCFdxsqGioKJBIaQkIiocAf8AMUtH6BSkJoqGiofCU0VDRUPhIqCqGhsg0ViY+KhnOSu7IRq9g5k0zxTnKS3Zu8c589M/Pe924+FzzywflyCdBaIQ8HZwH1Ac1Z4bjeA3AeeZ+hhaiAiwC7h5aiAi4D7AZaiQq4CrBzaC0q4BbADqDtqIA7ANvNZGb0mOI9ULHM+2Y6p22G5eUEH0YFPAIYN+vjqIBnAJvMJtnM6NGDF6CagC7NdE49eI28o9lmbWb0cPAWVCPQnZnOyUE+h4egQlTAB4D1Qo9RAZ8A1gbxyGUOjx58A1Uj9G6mc+pBnqZroM+ogF/KH64ucVVW2mqFe8yhBmRpOcW1UQHrsg26PipgA8D4LOYUS0Jd4mZQ8ZjVIqFz6EFu0DxRt0cF7AAYX5Y6owL2AIzvw3wWS0Ldg/2g4l8fAxI6hx7kMWsKGo4CyKkdK4Fpxec+iC/vjBPoFbqqFFhR4gJu3vQPAF0laEWhABzHndfL3P0U1wcrIssWKQCZqpyL3ZbyMrEK8C8XN5Gf102hAvztIk/V7MsXE53QQXKUujiD79NWOGWJiyzsRUaXwj0PwGLPbSjc8wBUcf3kUQ6JHC45qLA0ldjqYnIwOWh1wLo+9WBy0OqAdX3qweSg1QHr+tSDVge/AXk3RUBrNplBAAAAAElFTkSuQmCC"
+                   transform="translate(49 204)"/>
+            <g transform="translate(75.136 215.406)">
+                <path fill="#FFF" d="M-2-3h23v18H-2z"/>
+                <text font-family="Arial" font-size="12" y="11">yes</text>
+            </g>
+            <g transform="matrix(1 0 0 .5 20 249)">
+                <path fill="#FFF" d="M0 0h100v100H0V0z"/>
+                <path fill="none" stroke="#333" d="M0 0h100v50H0V0z" stroke-miterlimit="10" stroke-width="2"
+                      transform="scale(1 2)"/>
+            </g>
+            <text font-family="Arial" font-size="12" x="26.5" y="11" transform="translate(24 267)">stream</text>
+            <path fill="#FFF" stroke="#333"
+                  d="M198 249h50c13.807 0 25 11.193 25 25s-11.193 25-25 25h-50c-13.807 0-25-11.193-25-25s11.193-25 25-25z"
+                  stroke-miterlimit="10" stroke-width="2"/>
+            <text font-family="Arial" font-size="12" x="29" y="11" transform="translate(177 267)">output</text>
+            <image width="77" height="40" preserveAspectRatio="none"
+                   xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAoCAYAAAC7MHdZAAABGElEQVRoQ+3W4Q3BUBTFcd3IBmzEBpgAG7CREdgAC3Bu0n6r5L1/+oib0+TGl57G/fW0dDMf1QJddcKBmdFACYxmNCAAIm6a0YAAiLhpRgMCIOKmGQ0IgIibZjQgACJumtGAAIhkaNpSe180d7A/imRA22rzleagOX4DLwvapq/MQ597zQ5VqDCUDe2lvWOnqyYaeC50qDptDG24a1UX+uHJ8U6LGTua4I2hxR36pyPAFh++8K1v3GnKhbI+nk2wBvhsaE8tFj8ETZ+WLGhrQcVfjpjm/9cyoM0FFS/85liZHs8p3/FF18rQtKJFpzzJaEDTaEYDAiDiphkNCICIm2Y0IAAibprRgACIuGlGAwIg4qYZDQiAyBu55h4pzCTngQAAAABJRU5ErkJggg=="
+                   transform="translate(116 254)"/>
+            <image width="40" height="113" preserveAspectRatio="none"
+                   xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAABxCAYAAACnf+FSAAABh0lEQVR4Xu3Y4W3CMBCG4WSACjYoI3SDMgpMUjoJjNJuwAiwAYgB4E5KUBTgx8d3SPx4I1lQ6nNOjw87uG3e/GrfPL+GBN0Zqhb8iYRyzJWbWB9Pgq4kggiKAnyLRbCb7ggiqAqwUKti4/4IIigKsFCLYGx15T87qUFqUBVgq1PFeFjgbMasGRZqE7BBEEFVgK1OFWOrY6sza4aF2gRkq3MBEURQFuBhQSYbBSCIoCjAw4IIxiE6h+huySCIoCrAQq2KjfsjiKAqwBO1KsYBJgeYZs2wUJuAHL+5gAjKgvOI+B5E5fvcPv8Gn/2P/pZu4u7Fs7jbNtrkwV2P8Xn2OUhZDTq7CeZQq2i5/t27frv/P5tfyc/Oadx9H+2jm95M5hztFO3T0cuBKgQfKdp6lQmmYtZiiuWVol+uXmWCOdYi2rpLcBmvm6cLbxBYNcX9kLvuzawiuWrBXjFfS/RekWAV3HWc6ikmwXIBd0CmGEFXwI2nBhF0Bdx4ahBBV8CNpwYRdAXc+Avsm2VyRMlcwQAAAABJRU5ErkJggg=="
+                   transform="translate(203 155.978)"/>
+        </g>
+    </symbol>
+    <symbol viewBox="0 0 290 319" id="node_modules--ternary-stream--img--ternary">
+        <g>
+            <path fill="#FFF" d="M0 0h290v319H0z"/>
+            <image width="78" height="40" preserveAspectRatio="none"
+                   xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE4AAAAoCAYAAABQB8xaAAABCklEQVRoQ+3W0Q0BQRSFYVsZHdEBHaADOlICHaAB7k1231ay/hjh5p9k4sXZmG/PjOlmDiTQoZShmXCwBMIJBwVgzMYJBwVgzMYJBwVgzMYJBwVgzMYJBwVgzMYJBwVgrErjFrH+U8wrdHg7VgVuEytfxtzF3H8DsBLcuq/NLT63rQErwj0CLdd1jplNPL69DycExuCGNzch/jNfyTMu59hoAjgGl2/p30aizV/86EvfvMMnF1V5qzYBG/Arwt37P4emO6cS3CrA8jqSs/l9rgpcnnFegD95iLd6VpXGtfJ5+VzhILlwwkEBGLNxwkEBGLNxwkEBGLNxwkEBGLNxwkEBGLNxwkEBGHsCMP0fKZ4lR9oAAAAASUVORK5CYII="
+                   transform="translate(116 138)"/>
+            <g transform="translate(128 136)">
+                <path fill="#FFF" d="M-2-3h18v18H-2z"/>
+                <text font-family="Arial" font-size="12" y="11">no</text>
+            </g>
+            <image width="40" height="63" preserveAspectRatio="none"
+                   xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAA/CAYAAACSLYpOAAAB+0lEQVRoQ+2YPS9EYRCFdxsqGioKJBIaQkIiocAf8AMUtH6BSkJoqGiofCU0VDRUPhIqCqGhsg0ViY+KhnOSu7IRq9g5k0zxTnKS3Zu8c589M/Pe924+FzzywflyCdBaIQ8HZwH1Ac1Z4bjeA3AeeZ+hhaiAiwC7h5aiAi4D7AZaiQq4CrBzaC0q4BbADqDtqIA7ANvNZGb0mOI9ULHM+2Y6p22G5eUEH0YFPAIYN+vjqIBnAJvMJtnM6NGDF6CagC7NdE49eI28o9lmbWb0cPAWVCPQnZnOyUE+h4egQlTAB4D1Qo9RAZ8A1gbxyGUOjx58A1Uj9G6mc+pBnqZroM+ogF/KH64ucVVW2mqFe8yhBmRpOcW1UQHrsg26PipgA8D4LOYUS0Jd4mZQ8ZjVIqFz6EFu0DxRt0cF7AAYX5Y6owL2AIzvw3wWS0Ldg/2g4l8fAxI6hx7kMWsKGo4CyKkdK4Fpxec+iC/vjBPoFbqqFFhR4gJu3vQPAF0laEWhABzHndfL3P0U1wcrIssWKQCZqpyL3ZbyMrEK8C8XN5Gf102hAvztIk/V7MsXE53QQXKUujiD79NWOGWJiyzsRUaXwj0PwGLPbSjc8wBUcf3kUQ6JHC45qLA0ldjqYnIwOWh1wLo+9WBy0OqAdX3qweSg1QHr+tSDVge/AXk3RUBrNplBAAAAAElFTkSuQmCC"
+                   transform="translate(50 66)"/>
+            <path fill="#FFF" stroke="#333"
+                  d="M46 20h50c13.807 0 25 11.193 25 25s-11.193 25-25 25H46c-13.807 0-25-11.193-25-25s11.193-25 25-25z"
+                  stroke-miterlimit="10" stroke-width="2"/>
+            <text font-family="Arial" font-size="12" x="32.5" y="11" transform="translate(25 38)">input</text>
+            <path fill="#FFF" stroke="#333" d="M71 109l50 50-50 50-50-50 50-50z" stroke-miterlimit="10"
+                  stroke-width="2"/>
+            <g transform="translate(25 145)" font-family="Arial" font-size="12">
+                <text x="17" y="11">condition()</text>
+                <text x="25" y="25">is truthy</text>
+            </g>
+            <image width="40" height="63" preserveAspectRatio="none"
+                   xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAA/CAYAAACSLYpOAAAB+0lEQVRoQ+2YPS9EYRCFdxsqGioKJBIaQkIiocAf8AMUtH6BSkJoqGiofCU0VDRUPhIqCqGhsg0ViY+KhnOSu7IRq9g5k0zxTnKS3Zu8c589M/Pe924+FzzywflyCdBaIQ8HZwH1Ac1Z4bjeA3AeeZ+hhaiAiwC7h5aiAi4D7AZaiQq4CrBzaC0q4BbADqDtqIA7ANvNZGb0mOI9ULHM+2Y6p22G5eUEH0YFPAIYN+vjqIBnAJvMJtnM6NGDF6CagC7NdE49eI28o9lmbWb0cPAWVCPQnZnOyUE+h4egQlTAB4D1Qo9RAZ8A1gbxyGUOjx58A1Uj9G6mc+pBnqZroM+ogF/KH64ucVVW2mqFe8yhBmRpOcW1UQHrsg26PipgA8D4LOYUS0Jd4mZQ8ZjVIqFz6EFu0DxRt0cF7AAYX5Y6owL2AIzvw3wWS0Ldg/2g4l8fAxI6hx7kMWsKGo4CyKkdK4Fpxec+iC/vjBPoFbqqFFhR4gJu3vQPAF0laEWhABzHndfL3P0U1wcrIssWKQCZqpyL3ZbyMrEK8C8XN5Gf102hAvztIk/V7MsXE53QQXKUujiD79NWOGWJiyzsRUaXwj0PwGLPbSjc8wBUcf3kUQ6JHC45qLA0ldjqYnIwOWh1wLo+9WBy0OqAdX3qweSg1QHr+tSDVge/AXk3RUBrNplBAAAAAElFTkSuQmCC"
+                   transform="translate(50 204)"/>
+            <g transform="translate(76.136 215.406)">
+                <path fill="#FFF" d="M-2-3h23v18H-2z"/>
+                <text font-family="Arial" font-size="12" y="11">yes</text>
+            </g>
+            <g transform="matrix(1 0 0 .5 21 249)">
+                <path fill="#FFF" d="M0 0h100v100H0V0z"/>
+                <path fill="none" stroke="#333" d="M0 0h100v50H0V0z" stroke-miterlimit="10" stroke-width="2"
+                      transform="scale(1 2)"/>
+            </g>
+            <text font-family="Arial" font-size="12" x="26.5" y="11" transform="translate(25 267)">stream</text>
+            <g transform="matrix(1 0 0 .5 170 134)">
+                <path fill="#FFF" d="M0 0h100v100H0V0z"/>
+                <path fill="none" stroke="#333" d="M0 0h100v50H0V0z" stroke-miterlimit="10" stroke-width="2"
+                      transform="scale(1 2)"/>
+            </g>
+            <text font-family="Arial" font-size="12" x="13" y="11" transform="translate(174 152)">else stream</text>
+            <path fill="#FFF" stroke="#333"
+                  d="M195 249h50c13.807 0 25 11.193 25 25s-11.193 25-25 25h-50c-13.807 0-25-11.193-25-25s11.193-25 25-25z"
+                  stroke-miterlimit="10" stroke-width="2"/>
+            <text font-family="Arial" font-size="12" x="29" y="11" transform="translate(174 267)">output</text>
+            <image width="40" height="89" preserveAspectRatio="none"
+                   xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAABZCAYAAABMgGYJAAABVUlEQVRoQ+3Y8Q3BUBDH8XYAYQM2YRQmUZOwgg2MYAQ2IAbgLulLqvjj/E70j2+Tlzb0zuXzrn3Vuhr4Vg+8vooC1RnKFlxbQZ6zUQsr8RSoSiKIYFCAqzgI9nI6gghGBbhRR8X65yOIYFCAG3UQjKUu/W8nPUgPRgVY6qJiPCzwbkbsGW7UImCFIIJRAZa6qBhLHUud2DPcqEVAljoVEEEEwwI8LITJegEIIhgU4GEhCFYtLGDeCfJjv/AOnc/2dnyMJi7nq1fxxBKdbIw/FHC1z2c2Lv8q0H+3seG9927btN9/W1/KW35XPNsYtdPrxdxt3GxMFT1PpE5xkXmnKOtlFui5vBddzDcXnX09r53ALEFPubSxbXOvbL8bWoFF0fcpetlTXBR9n6L3iwIzZvUpR2YPpheHYAYpU6wqIoigKqDG04MIqgJqPD2IoCqgxtODquADDetMWrW+yc8AAAAASUVORK5CYII="
+                   transform="translate(200 180)"/>
+            <image width="73" height="40" preserveAspectRatio="none"
+                   xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEkAAAAoCAYAAACy29cjAAABFUlEQVRoQ+3W0RHBUBCF4aQjHdARHaACdEBHSqADNMDuTPJ2M/kfdo01JzM7Xs6E/XJyR9/pmhXoZxMKdEICJRCSkIAAiKhJQgICIKImCQkIgIiaJCQgACJqkpCAAIioSUICAiBSsUkr2+tq8wD7hUQqIu1s87XN0eb0DayqSNuhIk/7PNjsQyozcZPqSG/by3e42XjDLhlYLaTxKWV8X8Q9/UzyaV0pWC0kfyK/fDnQcuIH3odGnSMX+JfXLQVnhK6O9LJF/OBObX9VpI3B+F8An/T/SxWRFgbjB3Q6TuXXLfJMRveq2CS0WGRISEBTSEICAiCiJgkJCICImiQkIAAiapKQgACIqElCAgIgoiYJCQiAyAfiCx4p5dO7EAAAAABJRU5ErkJggg=="
+                   transform="translate(117 254)"/>
+        </g>
+    </symbol>
+</svg>

@@ -1,0 +1,47 @@
+[ignore]
+.*/node_modules/.*
+
+[libs]
+
+[options]
+module.system.node.resolve_dirname=node_modules
+module.system.node.resolve_dirname=src
+esproposal.class_static_fields=enable
+esproposal.class_instance_fields=enable
+esproposal.decorators=ignore
+
+module.name_mapper='apollo-cache-persist' -> 'empty/object'
+module.name_mapper='apollo-link-context' -> 'empty/object'
+module.name_mapper='fast-deep-equal' -> 'empty/object'
+module.name_mapper='graphql-tag' -> 'empty/object'
+module.name_mapper='immer' -> 'empty/object'
+module.name_mapper='polished' -> 'empty/object'
+module.name_mapper='react-apollo' -> 'empty/object'
+module.name_mapper='react-beautiful-dnd' -> 'empty/object'
+module.name_mapper='react-dnd-html5-backend' -> 'empty/object'
+module.name_mapper='react-dnd-html5-backend' -> 'empty/object'
+module.name_mapper='react-dnd' -> 'empty/object'
+module.name_mapper='redux-devtools-dock-monitor' -> 'empty/object'
+module.name_mapper='redux-devtools-log-monitor' -> 'empty/object'
+module.name_mapper='redux-devtools' -> 'empty/object'
+module.name_mapper='redux-thunk' -> 'empty/object'
+module.name_mapper='re-resizable' -> 'empty/object'
+module.name_mapper='memoize-one' -> 'empty/object'
+module.name_mapper='recompose' -> 'empty/object'
+
+module.name_mapper='^history\(.*\)$' -> 'empty/object'
+module.name_mapper='^app\(.*\)$' -> '<PROJECT_ROOT>/src/app/\1'
+module.name_mapper='^store\(.*\)$' -> '<PROJECT_ROOT>/src/store/\1'
+module.name_mapper='^graphql\(.*\)$' -> '<PROJECT_ROOT>/src/graphql/\1'
+module.name_mapper='^test\(.*\)$' -> '<PROJECT_ROOT>/src/test/\1'
+
+module.name_mapper='.*\(\.css\)' -> 'empty/object'
+module.name_mapper='.*\(\.less\)' -> 'empty/object'
+module.name_mapper='.*\(\.scss\)' -> 'empty/object'
+module.name_mapper='.*\(\.jpg\)' -> 'empty/object'
+module.name_mapper='.*\(\.png\)' -> 'empty/object'
+module.name_mapper='.*\(\.graphql\)' -> 'empty/object'
+
+module.system=haste
+
+suppress_comment= \\(.\\|\n\\)*\\$FlowFixMe

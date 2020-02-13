@@ -1,0 +1,563 @@
+@font-face {
+  font-family: 'affectli';
+  src:  url('fonts/affectli.eot?1lb5t0');
+  src:  url('fonts/affectli.eot?1lb5t0#iefix') format('embedded-opentype'),
+    url('fonts/affectli.ttf?1lb5t0') format('truetype'),
+    url('fonts/affectli.woff?1lb5t0') format('woff'),
+    url('fonts/affectli.svg?1lb5t0#affectli') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="af-"], [class*=" af-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'affectli' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.af-baidu:before {
+  content: "\e934";
+}
+.af-subtask-tree:before {
+  content: "\e93b";
+}
+.af-down:before {
+  content: "\e93c";
+}
+.af-left:before {
+  content: "\e93d";
+}
+.af-right:before {
+  content: "\e93e";
+}
+.af-up:before {
+  content: "\e942";
+}
+.af-gab:before {
+  content: "\e944";
+}
+.af-Things:before {
+  content: "\e947";
+}
+.af-script:before {
+  content: "\e900";
+}
+.af-abox:before {
+  content: "\e901";
+}
+.af-designer:before {
+  content: "\e902";
+}
+.af-marketplace:before {
+  content: "\e903";
+}
+.af-logo:before {
+  content: "\e904";
+}
+.af-messenger:before {
+  content: "\e905";
+}
+.af-analytics:before {
+  content: "\e906";
+}
+.af-app-builder:before {
+  content: "\e907";
+}
+.af-charts:before {
+  content: "\e908";
+}
+.af-classification-editor:before {
+  content: "\e909";
+}
+.af-classification-tags:before {
+  content: "\e90a";
+}
+.af-config-builder:before {
+  content: "\e90b";
+}
+.af-config-builder-a:before {
+  content: "\e90c";
+}
+.af-config-builder-edit:before {
+  content: "\e90d";
+}
+.af-config-builder2:before {
+  content: "\e90e";
+}
+.af-dashboard:before {
+  content: "\e90f";
+}
+.af-data-source-builder:before {
+  content: "\e910";
+}
+.af-data-source:before {
+  content: "\e911";
+}
+.af-duplicate-app:before {
+  content: "\e912";
+}
+.af-event-dashboard:before {
+  content: "\e913";
+}
+.af-event-monitor:before {
+  content: "\e914";
+}
+.af-events:before {
+  content: "\e915";
+}
+.af-file-builder:before {
+  content: "\e916";
+}
+.af-form-builder:before {
+  content: "\e917";
+}
+.af-form-edit:before {
+  content: "\e918";
+}
+.af-form:before {
+  content: "\e919";
+}
+.af-hr:before {
+  content: "\e91a";
+}
+.af-job-profiling:before {
+  content: "\e91b";
+}
+.af-maps:before {
+  content: "\e91c";
+}
+.af-stream:before {
+  content: "\e91d";
+}
+.af-multiple-apps:before {
+  content: "\e91e";
+}
+.af-process-builder:before {
+  content: "\e91f";
+}
+.af-processes:before {
+  content: "\e920";
+}
+.af-projects:before {
+  content: "\e921";
+}
+.af-stream-file:before {
+  content: "\e922";
+}
+.af-script-builder:before {
+  content: "\e923";
+}
+.af-awareness-drawing:before {
+  content: "\e924";
+}
+.af-situational-awareness:before {
+  content: "\e925";
+}
+.af-situational-intelligence:before {
+  content: "\e926";
+}
+.af-table:before {
+  content: "\e927";
+}
+.af-tagngo:before {
+  content: "\e928";
+}
+.af-task-list:before {
+  content: "\e929";
+}
+.af-task:before {
+  content: "\e92a";
+}
+.af-teams:before {
+  content: "\e92b";
+}
+.af-things:before {
+  content: "\e92c";
+}
+.af-tick:before {
+  content: "\e92d";
+}
+.af-todo:before {
+  content: "\e92e";
+}
+.af-user-management:before {
+  content: "\e92f";
+}
+.af-widget-builder:before {
+  content: "\e930";
+}
+.af-settings:before {
+  content: "\e931";
+}
+.af-admin:before {
+  content: "\e932";
+}
+.af-affectli:before {
+  content: "\e933";
+}
+.af-apps:before {
+  content: "\e935";
+}
+.af-uniE936:before {
+  content: "\e936";
+}
+.af-entities:before {
+  content: "\e937";
+}
+.af-events-dashboard:before {
+  content: "\e938";
+}
+.af-event-monitor-card:before {
+  content: "\e939";
+}
+.af-file:before {
+  content: "\e93a";
+}
+.af-hcm:before {
+  content: "\e93f";
+}
+.af-hmc-briefcase:before {
+  content: "\e940";
+}
+.af-intelligent-property:before {
+  content: "\e941";
+}
+.af-maybery:before {
+  content: "\e943";
+}
+.af-organisations:before {
+  content: "\e945";
+}
+.af-people:before {
+  content: "\e946";
+}
+.af-reports:before {
+  content: "\e94a";
+}
+.af-situational-awareness2:before {
+  content: "\e94c";
+}
+.af-situational-intelligence2:before {
+  content: "\e94d";
+}
+.af-situation-awareness-drawing:before {
+  content: "\e94e";
+}
+.af-tag-n-go:before {
+  content: "\e94f";
+}
+.af-widgets:before {
+  content: "\e953";
+}
+.af-process-association-bidirectional:before {
+  content: "\e954";
+}
+.af-process-association-directed:before {
+  content: "\e955";
+}
+.af-process-association-undirected:before {
+  content: "\e956";
+}
+.af-process-call-conversation:before {
+  content: "\e957";
+}
+.af-process-call-subconversation:before {
+  content: "\e958";
+}
+.af-process-conversation:before {
+  content: "\e959";
+}
+.af-process-conversation-lines:before {
+  content: "\e95a";
+}
+.af-process-data-object:before {
+  content: "\e95b";
+}
+.af-process-data-object-collection:before {
+  content: "\e95c";
+}
+.af-process-data-object-input:before {
+  content: "\e95d";
+}
+.af-process-data-object-output:before {
+  content: "\e95e";
+}
+.af-process-data-store:before {
+  content: "\e95f";
+}
+.af-process-diagram:before {
+  content: "\e960";
+}
+.af-process-event-subprocess:before {
+  content: "\e961";
+}
+.af-process-event-subprocess-collapsed:before {
+  content: "\e962";
+}
+.af-process-expanded-subprocess:before {
+  content: "\e963";
+}
+.af-process-gateway-complex:before {
+  content: "\e964";
+}
+.af-process-gateway-event-based:before {
+  content: "\e965";
+}
+.af-process-gateway-exclusive-database:before {
+  content: "\e966";
+}
+.af-process-gateway-exclusive-event-based:before {
+  content: "\e967";
+}
+.af-process-gateway-inclusive:before {
+  content: "\e968";
+}
+.af-process-gateway-parallel:before {
+  content: "\e969";
+}
+.af-process-gateway-parallel-event-based:before {
+  content: "\e96a";
+}
+.af-process-lane:before {
+  content: "\e96b";
+}
+.af-process-marker-ad-hoc:before {
+  content: "\e96c";
+}
+.af-process-marker-compensation:before {
+  content: "\e96d";
+}
+.af-process-marker-loop:before {
+  content: "\e96e";
+}
+.af-process-marker-parallel:before {
+  content: "\e96f";
+}
+.af-process-marker-sequential:before {
+  content: "\e970";
+}
+.af-process-marker-subprocess:before {
+  content: "\e971";
+}
+.af-process-message-flow:before {
+  content: "\e972";
+}
+.af-process-pool:before {
+  content: "\e973";
+}
+.af-process-sequence-flow:before {
+  content: "\e974";
+}
+.af-process-sequence-flow-conditional:before {
+  content: "\e975";
+}
+.af-process-sequence-flow-default:before {
+  content: "\e976";
+}
+.af-process-subconversation:before {
+  content: "\e977";
+}
+.af-process-subprocess:before {
+  content: "\e978";
+}
+.af-process-task:before {
+  content: "\e979";
+}
+.af-process-text-annotation:before {
+  content: "\e97a";
+}
+.af-process-type-business-rule:before {
+  content: "\e97b";
+}
+.af-process-type-camel:before {
+  content: "\e97c";
+}
+.af-process-type-manuel:before {
+  content: "\e97d";
+}
+.af-process-type-mule:before {
+  content: "\e97e";
+}
+.af-process-type-receive:before {
+  content: "\e97f";
+}
+.af-process-type-restcall:before {
+  content: "\e980";
+}
+.af-process-type-script:before {
+  content: "\e981";
+}
+.af-process-type-send:before {
+  content: "\e982";
+}
+.af-process-type-service:before {
+  content: "\e983";
+}
+.af-process-type-shell:before {
+  content: "\e984";
+}
+.af-process-type-user:before {
+  content: "\e985";
+}
+.af-events-cancel-end-standard:before {
+  content: "\e986";
+}
+.af-events-cancel-intermediate:before {
+  content: "\e987";
+}
+.af-events-compensation-end-standard:before {
+  content: "\e988";
+}
+.af-events-compensation-end-throwing:before {
+  content: "\e989";
+}
+.af-events-compensation-intermediate:before {
+  content: "\e98a";
+}
+.af-events-compensation-start:before {
+  content: "\e98b";
+}
+.af-events-conditional-intermediate-23:before {
+  content: "\e98c";
+}
+.af-events-conditional-intermediate-noninterrupting:before {
+  content: "\e98d";
+}
+.af-events-conditional-start-21:before {
+  content: "\e98e";
+}
+.af-events-conditional-start-noninterrupting:before {
+  content: "\e98f";
+}
+.af-events-error-end-standard:before {
+  content: "\e990";
+}
+.af-events-error-intermediate:before {
+  content: "\e991";
+}
+.af-events-error-start:before {
+  content: "\e992";
+}
+.af-events-escalation-end-standard:before {
+  content: "\e993";
+}
+.af-events-escalation-end-throwing:before {
+  content: "\e994";
+}
+.af-events-escalation-intermediate:before {
+  content: "\e995";
+}
+.af-events-escalation-intermediate-noninterrupting:before {
+  content: "\e996";
+}
+.af-events-escalation-start:before {
+  content: "\e997";
+}
+.af-events-escalation-start-noninterrupting:before {
+  content: "\e998";
+}
+.af-events-link-end-throwing:before {
+  content: "\e999";
+}
+.af-events-link-intermediate:before {
+  content: "\e99a";
+}
+.af-events-message-end-standard:before {
+  content: "\e99b";
+}
+.af-events-message-end-throwing:before {
+  content: "\e99c";
+}
+.af-events-message-intermediate-07:before {
+  content: "\e99d";
+}
+.af-events-message-intermediate-noninterrupting:before {
+  content: "\e99e";
+}
+.af-events-message-start-05:before {
+  content: "\e99f";
+}
+.af-events-message-start-noninterrupting:before {
+  content: "\e9a0";
+}
+.af-events-multiple-end-standard:before {
+  content: "\e9a1";
+}
+.af-events-multiple-end-throwing:before {
+  content: "\e9a2";
+}
+.af-events-multiple-intermediate-44:before {
+  content: "\e9a3";
+}
+.af-events-multiple-intermediate-noninterrupting:before {
+  content: "\e9a4";
+}
+.af-events-multiple-start-42:before {
+  content: "\e9a5";
+}
+.af-events-multiple-start-noninterrupting:before {
+  content: "\e9a6";
+}
+.af-events-none-end-standard:before {
+  content: "\e9a7";
+}
+.af-events-none-end-throwing:before {
+  content: "\e9a8";
+}
+.af-events-none-start:before {
+  content: "\e9a9";
+}
+.af-events-parallel-intermediate-50:before {
+  content: "\e9aa";
+}
+.af-events-parallel-intermediate-noninterrupting:before {
+  content: "\e9ab";
+}
+.af-events-parallel-start-48:before {
+  content: "\e9ac";
+}
+.af-events-parallel-start-noninterrupting:before {
+  content: "\e9ad";
+}
+.af-events-signal-end-standard:before {
+  content: "\e9ae";
+}
+.af-events-signal-end-throwing:before {
+  content: "\e9af";
+}
+.af-events-signal-intermediate-38:before {
+  content: "\e9b0";
+}
+.af-events-signal-intermediate-noninterrupting:before {
+  content: "\e9b1";
+}
+.af-events-signal-start-36:before {
+  content: "\e9b2";
+}
+.af-events-signal-start-noninterrupting:before {
+  content: "\e9b3";
+}
+.af-events-terminate:before {
+  content: "\e9b4";
+}
+.af-events-timer-intermediate-13:before {
+  content: "\e9b5";
+}
+.af-events-timer-intermediate-noninterrupting:before {
+  content: "\e9b6";
+}
+.af-events-timer-start-11:before {
+  content: "\e9b7";
+}
+.af-events-timer-start-noninterrupting:before {
+  content: "\e9b8";
+}

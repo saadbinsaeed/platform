@@ -1,0 +1,3412 @@
+{
+    "ACPM-0009": {
+        "description": "POWER - GEN FAILURE",
+        "impact": "Minor",
+        "type": "POWER"
+    },
+    "ACPM-0014": {
+        "description": "POWER - SITE ON GEN",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "ACPM-0025": {
+        "description": "POWER - GEN FAILURE",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "ACPM-0114": {
+        "description": "POWER - SITE ON GEN",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "ACPM-0125": {
+        "description": "POWER - GEN FAILURE",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "AL690-0001": {
+        "description": "SECURITY - GATE OPEN",
+        "impact": "Warning",
+        "type": "SECURITY"
+    },
+    "AL690-0002": {
+        "description": "SECURITY - CONTOLER DOOR OPEN",
+        "impact": "Warning",
+        "type": "SECURITY"
+    },
+    "AL690-0003": {
+        "description": "SECURITY - FUEL COVER OPEN",
+        "impact": "Warning",
+        "type": "SECURITY"
+    },
+    "AL690-0004": {
+        "description": "SYSTEM - BATTERY DOWN",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "AL690-0005": {
+        "description": "SYSTEM - CONTROLER FAILURE",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "AL690-0006": {
+        "description": "SYSTEM - BATTERY DOWN",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "AL690-0007": {
+        "description": "ENVIRONMENT - AIRCON 1 ON",
+        "impact": "Warning",
+        "type": "SECURITY"
+    },
+    "AL690-0008": {
+        "description": "ENVIRONMENT - AIRCON 2 ON",
+        "impact": "Info",
+        "type": "ENVIRONMENT"
+    },
+    "AL690-0009": {
+        "description": "ENVIRONMENT - SMOKE",
+        "impact": "Site down",
+        "type": "ENVIRONMENT"
+    },
+    "AL690-0010": {
+        "description": "ENVIRONMENT - SMOKE",
+        "impact": "Site down",
+        "type": "ENVIRONMENT"
+    },
+    "AL690-0011": {
+        "description": "POWER - GEN FAILURE",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "AL690-0012": {
+        "description": "POWER - GEN ON",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "AL690-0013": {
+        "description": "POWER - GEN FAILURE",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "AL690-0014": {
+        "description": "POWER - GEN ON",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "AL690-0015": {
+        "description": "POWER - GRID OFF",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "AL690-0017": {
+        "description": "ENVIRONMENT - AIRCON 1 ON",
+        "impact": "Info",
+        "type": "ENVIRONMENT"
+    },
+    "AL690-0018": {
+        "description": "ENVIRONMENT - AIRCON 2 ON",
+        "impact": "Info",
+        "type": "ENVIRONMENT"
+    },
+    "AL690-0030": {
+        "description": "POWER - GEN FAILURE",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "AL690-0031": {
+        "description": "POWER - GEN COMM FAILURE",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "AL690-0033": {
+        "description": "POWER - VOLTAGE HIGH",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "AL690-0034": {
+        "description": "POWER - VOLTAGE LOW",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "AL690-0035": {
+        "description": "POWER - VOLTAGE HIGH",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "AL690-0036": {
+        "description": "POWER - VOLTAGE LOW",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "AL690-0037": {
+        "description": "POWER - VOLTAGE HIGH",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "AL690-0038": {
+        "description": "POWER - VOLTAGE LOW",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "AL690-0039": {
+        "description": "POWER - VOLTAGE HIGH",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "AL690-0040": {
+        "description": "POWER - VOLTAGE LOW",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "AL690-0041": {
+        "description": "ENVIRONMENT - TEMP HIGH",
+        "impact": "Warning",
+        "type": "ENVIRONMENT"
+    },
+    "AL690-0042": {
+        "description": "ENVIRONMENT - TEMP LOW",
+        "impact": "Info",
+        "type": "ENVIRONMENT"
+    },
+    "AL690-0043": {
+        "description": "DIESEL - FUEL LEVEL HIGH",
+        "impact": "Info",
+        "type": "DIESEL"
+    },
+    "AL690-0044": {
+        "description": "DIESEL - FUEL LEVEL LOW",
+        "impact": "Warning",
+        "type": "DIESEL"
+    },
+    "AL690-0045": {
+        "description": "DIESEL - FUEL LEVEL HIGH",
+        "impact": "Info",
+        "type": "DIESEL"
+    },
+    "AL690-0046": {
+        "description": "DIESEL - FUEL LEVEL LOW",
+        "impact": "Warning",
+        "type": "DIESEL"
+    },
+    "AL690-0049": {
+        "description": "POWER - SITE ON BATTERY",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "AL690-0051": {
+        "description": "SYSTEM - GPRS PORT ISSUE",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "AL690-0052": {
+        "description": "SYSTEM - SIGNAL LOW",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "AL690-0055": {
+        "description": "SYSTEM - ENERGY METER DISCONNECT",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "AL690-0062": {
+        "description": "POWER - VOLTAGE ZERO",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "AL690-0065": {
+        "description": "DIESEL - FUEL LEVEL DROP",
+        "impact": "Warning",
+        "type": "DIESEL"
+    },
+    "AL690-0066": {
+        "description": "DIESEL - REFUEL",
+        "impact": "Info",
+        "type": "DIESEL"
+    },
+    "AL690-0069": {
+        "description": "SYSTEM - FUEL SENSOR FAILURE",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "AL690-0070": {
+        "description": "SYSTEM - FUEL SENSOR FAILURE",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "AL690-0071": {
+        "description": "SYSTEM - TEMP SENSOR FAILURE",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "AL690-0075": {
+        "description": "POWER - GEN FAILURE",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "AL690-0076": {
+        "description": "POWER - GEN FAILURE",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "AL690-0078": {
+        "description": "SYSTEM - ENERGY METER DISCONNECT",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "AL690-0079": {
+        "description": "SYSTEM - ENERGY METER DISCONNECT",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "AL690-0080": {
+        "description": "SYSTEM - ENERGY METER DISCONNECT",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "AL690-0085": {
+        "description": "SYSTEM - SYNC",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "AL690-0087": {
+        "description": "POWER - SOLAR FAILURE",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "AL690-0089": {
+        "description": "POWER - TENANT DOWN",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "CC690-0012": {
+        "description": "SYSTEM - TEMP SENSOR FAILURE",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "CC690-0013": {
+        "description": "ENVIRONMENT - BATTERY HIGH TEMP",
+        "impact": "Warning",
+        "type": "ENVIRONMENT"
+    },
+    "CC690-0016": {
+        "description": "SYSTEM - TEMP SENSOR FAILURE",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "CC690-0028": {
+        "description": "POWER - TENANT DOWN",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "CC690-0030": {
+        "description": "POWER - TENANT DOWN",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "CC690-0112": {
+        "description": "SYSTEM - TEMP SENSOR FAILURE",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "CC690-0116": {
+        "description": "SYSTEM - TEMP SENSOR FAILURE",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "CC690-0128": {
+        "description": "POWER - TENANT DOWN",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "CC690-0130": {
+        "description": "POWER - TENANT DOWN",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "CC690-0132": {
+        "description": "POWER - TENANT DOWN",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "CC690-0228": {
+        "description": "POWER - TENANT DOWN",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "CC690-0230": {
+        "description": "POWER - TENANT DOWN",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "CC690-0232": {
+        "description": "POWER - TENANT DOWN",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "DC690-0004": {
+        "description": "POWER - SITE ON GEN",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "DCPM-0015": {
+        "description": "POWER - GEN FAILURE",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "DCPM-0033": {
+        "description": "POWER - SITE ON GEN",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "DCPM-0115": {
+        "description": "POWER - GEN FAILURE",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "DCPM-0133": {
+        "description": "POWER - SITE ON GEN",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "DI_2": {
+        "description": "SECURITY - GATE OPEN",
+        "impact": "Warning",
+        "type": "SECURITY"
+    },
+    "DI_25": {
+        "description": "POWER - VOLTAGE LOW",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "DI_26": {
+        "description": "POWER - VOLTAGE HIGH",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "DI_27": {
+        "description": "POWER - CURRENT LOW",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "DI_28": {
+        "description": "POWER - CURRENT HIGH",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "DI_29": {
+        "description": "POWER - GRID OFF",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "DI_3": {
+        "description": "SECURITY - CONTOLER DOOR OPEN",
+        "impact": "Warning",
+        "type": "SECURITY"
+    },
+    "DI_30": {
+        "description": "POWER - GEN ON AND GRID AVAILABLE",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "DI_31": {
+        "description": "POWER - BATTERY LOW",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "DI_32": {
+        "description": "DIESEL - FUEL LEVEL LOW",
+        "impact": "Warning",
+        "type": "DIESEL"
+    },
+    "DI_33": {
+        "description": "DIESEL - FUEL LEVEL LOW",
+        "impact": "Warning",
+        "type": "DIESEL"
+    },
+    "DI_34": {
+        "description": "DIESEL - REFUEL",
+        "impact": "Info",
+        "type": "DIESEL"
+    },
+    "DI_35": {
+        "description": "DIESEL - FUEL LEVEL DROP",
+        "impact": "Warning",
+        "type": "DIESEL"
+    },
+    "DI_36": {
+        "description": "ENVIRONMENT - TEMP HIGH",
+        "impact": "Site down",
+        "type": "ENVIRONMENT"
+    },
+    "DI_38": {
+        "description": "POWER - BATTERY FAILURE",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "DI_39": {
+        "description": "SYSTEM - ENERGY METER DISCONNECT",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "DI_42": {
+        "description": "SYSTEM - ENERGY METER DISCONNECT",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "DI_43": {
+        "description": "SYSTEM - ENERGY METER DISCONNECT",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "DI_44": {
+        "description": "SYSTEM - FUEL SENSOR FAILURE",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "DI_45": {
+        "description": "POWER - SITE ON BATTERY",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "DI_46": {
+        "description": "POWER - SITE DOWN",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "DI_47": {
+        "description": "POWER - BATTERY LOW",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "DI_48": {
+        "description": "POWER - BATTERY LOW",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "DI_49": {
+        "description": "POWER - BATTERY LOW",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "DI_50": {
+        "description": "DIESEL - FUEL LEVEL DROP",
+        "impact": "Warning",
+        "type": "DIESEL"
+    },
+    "DI_51": {
+        "description": "POWER - GEN ON",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "DI_52": {
+        "description": "POWER - GEN ON",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "DI_53": {
+        "description": "POWER - MULTI GEN ON",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "DI_54": {
+        "description": "POWER - GEN RUNTIME HIGH",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "DI_55": {
+        "description": "POWER - GEN RUNTIME HIGH",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "DI_56": {
+        "description": "POWER - MULTI GEN ON",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "DI_57": {
+        "description": "POWER - SITE ON GEN",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "DI_58": {
+        "description": "POWER - SITE ON GEN",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "DI_59": {
+        "description": "POWER - MULTI GEN ON",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "DI_60": {
+        "description": "POWER - UNK SOURCE",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "DI_61": {
+        "description": "POWER - GRID OFF",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "DI_7": {
+        "description": "DIESEL - QUALITY",
+        "impact": "Warning",
+        "type": "DIESEL"
+    },
+    "EC690-0003": {
+        "description": "POWER - GEN 1 FAILURE",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "EC690-0005": {
+        "description": "SYSTEM - FUEL SENSOR FAILURE",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "EC690-0030": {
+        "description": "POWER - TENANT DOWN",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "EC690-0109": {
+        "description": "POWER - GEN ON",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "EM690-0001": {
+        "description": "SYSTEM - ENERGY METER DISCONNECT",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "EM690-0008": {
+        "description": "POWER - AC PHASE 1 VOLTAGE LOW",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "EM690-0009": {
+        "description": "POWER - AC PHASE 2 VOLTAGE LOW",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "EM690-0010": {
+        "description": "POWER - AC PHASE 3 VOLTAGE LOW",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "EM690-0011": {
+        "description": "POWER - AC PHASE 1 VOLTAGE HIGH",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "EM690-0012": {
+        "description": "POWER - AC PHASE 2 VOLTAGE HIGH",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "EM690-0013": {
+        "description": "POWER - AC PHASE 3 VOLTAGE HIGH",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "EM690-0101": {
+        "description": "SYSTEM - ENERGY METER DISCONNECT",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "EM690-0302": {
+        "description": "POWER - CURRENT LOW",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "EM690-0308": {
+        "description": "POWER - AC PHASE 1 VOLTAGE LOW",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "EM690-0309": {
+        "description": "POWER - AC PHASE 2 VOLTAGE LOW",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "EM690-0310": {
+        "description": "POWER - AC PHASE 3 VOLTAGE LOW",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "EM690-0311": {
+        "description": "POWER - AC PHASE 1 VOLTAGE HIGH",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "EM690-0312": {
+        "description": "POWER - AC PHASE 2 VOLTAGE HIGH",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "EM690-0313": {
+        "description": "POWER - AC PHASE 3 VOLTAGE HIGH",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "FUEL-0002": {
+        "description": "DIESEL - FUEL LEVEL LOW",
+        "impact": "Warning",
+        "type": "DIESEL"
+    },
+    "FUEL-0003": {
+        "description": "DIESEL - FUEL LEVEL HIGH",
+        "impact": "Info",
+        "type": "DIESEL"
+    },
+    "FUEL-0004": {
+        "description": "DIESEL - FUEL LEVEL DROP",
+        "impact": "Warning",
+        "type": "DIESEL"
+    },
+    "FUEL-0005": {
+        "description": "DIESEL - REFUEL",
+        "impact": "Info",
+        "type": "DIESEL"
+    },
+    "HMN 1": {
+        "description": "SECURITY - GATE OPEN",
+        "impact": "Warning",
+        "type": "SECURITY"
+    },
+    "HMN 10": {
+        "description": "POWER - VOLTAGE HIGH",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "HMN 11": {
+        "description": "POWER - BATTERY LOW",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "HMN 12": {
+        "description": "POWER - VOLTAGE HIGH",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "HMN 13": {
+        "description": "POWER - VOLTAGE LOW",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "HMN 14": {
+        "description": "POWER - VOLTAGE HIGH",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "HMN 15": {
+        "description": "POWER - VOLTAGE LOW",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "HMN 16": {
+        "description": "POWER - VOLTAGE HIGH",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "HMN 17": {
+        "description": "POWER - VOLTAGE LOW",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "HMN 18": {
+        "description": "ENVIRONMENT - TEMP HIGH",
+        "impact": "Warning",
+        "type": "ENVIRONMENT"
+    },
+    "HMN 19": {
+        "description": "ENVIRONMENT - TEMP LOW",
+        "impact": "Info",
+        "type": "ENVIRONMENT"
+    },
+    "HMN 2": {
+        "description": "SECURITY - SHELTER OPEN",
+        "impact": "Warning",
+        "type": "SECURITY"
+    },
+    "HMN 20": {
+        "description": "DIESEL - FUEL LEVEL HIGH",
+        "impact": "Info",
+        "type": "DIESEL"
+    },
+    "HMN 21": {
+        "description": "DIESEL - FUEL LEVEL LOW",
+        "impact": "Warning",
+        "type": "DIESEL"
+    },
+    "HMN 22": {
+        "description": "DIESEL - FUEL LEVEL HIGH",
+        "impact": "Info",
+        "type": "DIESEL"
+    },
+    "HMN 23": {
+        "description": "DIESEL - FUEL LEVEL LOW",
+        "impact": "Warning",
+        "type": "DIESEL"
+    },
+    "HMN 24": {
+        "description": "POWER - SITE ON BATTERY",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "HMN 25": {
+        "description": "SYSTEM - SIGNAL LOW",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "HMN 26": {
+        "description": "SYSTEM - ENERGY METER DISCONNECT",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "HMN 27": {
+        "description": "SYSTEM - TEMP SENSOR FAILURE",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "HMN 28": {
+        "description": "SECURITY - FUEL COVER OPEN",
+        "impact": "Warning",
+        "type": "SECURITY"
+    },
+    "HMN 29": {
+        "description": "POWER - GEN FAILURE",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "HMN 3": {
+        "description": "POWER - SITE DOWN",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "HMN 30": {
+        "description": "POWER - SITE ON GEN",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "HMN 31": {
+        "description": "SYSTEM - FUEL SENSOR FAILURE",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "HMN 32": {
+        "description": "SYSTEM - TEMP SENSOR FAILURE",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "HMN 33": {
+        "description": "ENVIRONMENT - TEMP HIGH",
+        "impact": "Warning",
+        "type": "ENVIRONMENT"
+    },
+    "HMN 34": {
+        "description": "ENVIRONMENT - TEMP LOW",
+        "impact": "Info",
+        "type": "ENVIRONMENT"
+    },
+    "HMN 35": {
+        "description": "SYSTEM - TEMP SENSOR FAILURE",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "HMN 36": {
+        "description": "ENVIRONMENT - TEMP HIGH",
+        "impact": "Warning",
+        "type": "ENVIRONMENT"
+    },
+    "HMN 37": {
+        "description": "ENVIRONMENT - TEMP LOW",
+        "impact": "Info",
+        "type": "ENVIRONMENT"
+    },
+    "HMN 38": {
+        "description": "POWER - GEN ON",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "HMN 39": {
+        "description": "POWER - GEN TEMP HIGH",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "HMN 4": {
+        "description": "POWER - AC FAILURE",
+        "impact": "Warning",
+        "type": "ENVIRONMENT"
+    },
+    "HMN 40": {
+        "description": "SYSTEM - COMMUNICATION FAILURE",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "HMN 41": {
+        "description": "DIESEL - REFUEL",
+        "impact": "Info",
+        "type": "DIESEL"
+    },
+    "HMN 42": {
+        "description": "DIESEL - FUEL LEVEL [10%]",
+        "impact": "Warning",
+        "type": "DIESEL"
+    },
+    "HMN 43": {
+        "description": "DIESEL - FUEL LEVEL [20%]",
+        "impact": "Warning",
+        "type": "DIESEL"
+    },
+    "HMN 44": {
+        "description": "DIESEL - FUEL LEVEL [30%]",
+        "impact": "Info",
+        "type": "DIESEL"
+    },
+    "HMN 45": {
+        "description": "DIESEL - FUEL LEVEL [40%]",
+        "impact": "Info",
+        "type": "DIESEL"
+    },
+    "HMN 46": {
+        "description": "DIESEL - FUEL LEVEL [50%]",
+        "impact": "Info",
+        "type": "DIESEL"
+    },
+    "HMN 47": {
+        "description": "DIESEL - FUEL LEVEL [60%]",
+        "impact": "Info",
+        "type": "DIESEL"
+    },
+    "HMN 48": {
+        "description": "SECURITY - SITE STRIKE",
+        "impact": "Warning",
+        "type": "SECURITY"
+    },
+    "HMN 49": {
+        "description": "DIESEL - FUEL LEVEL [10%]",
+        "impact": "Warning",
+        "type": "DIESEL"
+    },
+    "HMN 5": {
+        "description": "POWER - TENANT DOWN",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "HMN 50": {
+        "description": "DIESEL - FUEL LEVEL [20%]",
+        "impact": "Warning",
+        "type": "DIESEL"
+    },
+    "HMN 51": {
+        "description": "DIESEL - FUEL LEVEL [30%]",
+        "impact": "Info",
+        "type": "DIESEL"
+    },
+    "HMN 52": {
+        "description": "DIESEL - FUEL LEVEL [40%]",
+        "impact": "Info",
+        "type": "DIESEL"
+    },
+    "HMN 53": {
+        "description": "DIESEL - FUEL LEVEL [50%]",
+        "impact": "Info",
+        "type": "DIESEL"
+    },
+    "HMN 54": {
+        "description": "DIESEL - FUEL LEVEL [60%]",
+        "impact": "Info",
+        "type": "DIESEL"
+    },
+    "HMN 55": {
+        "description": "POWER - GEN OFF",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "HMN 56": {
+        "description": "POWER - GEN OFF",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "HMN 57": {
+        "description": "SECURITY - GATE OPEN REMOTELY",
+        "impact": "Warning",
+        "type": "SECURITY"
+    },
+    "HMN 58": {
+        "description": "DIESEL - FUEL LEVEL [DEADZONE]",
+        "impact": "Warning",
+        "type": "DIESEL"
+    },
+    "HMN 59": {
+        "description": "POWER - SITE ON BATTERY",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "HMN 6": {
+        "description": "ENVIRONMENT - SMOKE",
+        "impact": "Warning",
+        "type": "ENVIRONMENT"
+    },
+    "HMN 60": {
+        "description": "POWER - SITE ON BATTERY",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "HMN 61": {
+        "description": "DIESEL - FUEL LEVEL [500L]",
+        "impact": "Info",
+        "type": "DIESEL"
+    },
+    "HMN 62": {
+        "description": "DIESEL - FUEL LEVEL [500L]",
+        "impact": "Info",
+        "type": "DIESEL"
+    },
+    "HMN 63": {
+        "description": "SYSTEM - CLAMP DISCONNECT",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "HMN 64": {
+        "description": "SYSTEM - CLAMP DISCONNECT",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "HMN 65": {
+        "description": "SYSTEM - CLAMP DISCONNECT",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "HMN 66": {
+        "description": "POWER - GEN TEMPER",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "HMN 67": {
+        "description": "DIESEL - FUEL LEVEL DROP",
+        "impact": "Warning",
+        "type": "DIESEL"
+    },
+    "HMN 68": {
+        "description": "POWER - SITE DOWN",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "HMN 69": {
+        "description": "POWER - SITE ON BATTERY",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "HMN 7": {
+        "description": "POWER - GRID OFF",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "HMN 70": {
+        "description": "ENVIRONMENT - AIRCON FAILURE",
+        "impact": "Warning",
+        "type": "ENVIRONMENT"
+    },
+    "HMN 71": {
+        "description": "ENVIRONMENT - AIRCON FAILURE",
+        "impact": "Warning",
+        "type": "ENVIRONMENT"
+    },
+    "HMN 72": {
+        "description": "ENVIRONMENT - SMOKE",
+        "impact": "Warning",
+        "type": "ENVIRONMENT"
+    },
+    "HMN 73": {
+        "description": "POWER - SITE ON GRID",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "HMN 74": {
+        "description": "POWER - SITE DOWN",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "HMN 75": {
+        "description": "POWER - SOLAR FAILURE",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "HMN 76": {
+        "description": "POWER - GEN MAN OVERRIDE",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "HMN 77": {
+        "description": "POWER - GEN ON",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "HMN 78": {
+        "description": "POWER - GEN FAILURE",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "HMN 79": {
+        "description": "POWER - GEN OFF",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "HMN 8": {
+        "description": "ENVIRONMENT - AIRCON 1 ON",
+        "impact": "Info",
+        "type": "ENVIRONMENT"
+    },
+    "HMN 80": {
+        "description": "SYSTEM - COMMUNICATION FAILURE",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "HMN 81": {
+        "description": "SYSTEM - GATE LOCK FAILURE",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "HMN 82": {
+        "description": "SYSTEM - CAMERA FAILURE",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "HMN 83": {
+        "description": "SYSTEM - CONTROLER COMMUNICATION",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "HMN 84": {
+        "description": "POWER - SITE ON SOLAR",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "HMN 85": {
+        "description": "POWER - SITE ON BATTERY",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "HMN 86": {
+        "description": "POWER - TENANT DOWN",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "HMN 87": {
+        "description": "POWER - TENANT DOWN",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "HMN 88": {
+        "description": "POWER - TENANT DOWN",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "HMN 89": {
+        "description": "POWER - TENANT DOWN",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "HMN 9": {
+        "description": "ENVIRONMENT - AIRCON 2 ON",
+        "impact": "Info",
+        "type": "ENVIRONMENT"
+    },
+    "HMN 90": {
+        "description": "POWER - TENANT DOWN",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "INL 1": {
+        "description": "POWER - GEN FAILURE",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "INL 10": {
+        "description": "POWER - RECTIFIER FAILURE",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "INL 101": {
+        "description": "SYSTEM - CONTROLER RESTART",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "INL 102": {
+        "description": "POWER - SITE DOWN",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "INL 103": {
+        "description": "POWER - SITE ON BATTERY",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "INL 104": {
+        "description": "SECURITY - GATE OPEN",
+        "impact": "Warning",
+        "type": "SECURITY"
+    },
+    "INL 105": {
+        "description": "SYSTEM - GATE LOCK FAILURE",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "INL 106": {
+        "description": "POWER - SITE ON SOLAR",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "INL 107": {
+        "description": "POWER - SITE ON BATTERY & SOLAR",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "INL 108": {
+        "description": "POWER - SITE ON BATTERY",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "INL 11": {
+        "description": "POWER - VOLTAGE LOW",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "INL 12": {
+        "description": "POWER - VOLTAGE LOW",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "INL 13": {
+        "description": "SECURITY - BACK DOOR OPEN",
+        "impact": "Warning",
+        "type": "SECURITY"
+    },
+    "INL 14": {
+        "description": "SECURITY - GEN DOOR OPEN",
+        "impact": "Warning",
+        "type": "SECURITY"
+    },
+    "INL 140": {
+        "description": "POWER - CURRENT LOW",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "INL 141": {
+        "description": "POWER - CURRENT HIGH",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "INL 142": {
+        "description": "POWER - CURRENT LOW",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "INL 143": {
+        "description": "POWER - CURRENT HIGH",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "INL 144": {
+        "description": "POWER - CURRENT LOW",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "INL 145": {
+        "description": "POWER - CURRENT HIGH",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "INL 146": {
+        "description": "POWER - CURRENT LOW",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "INL 147": {
+        "description": "POWER - CURRENT HIGH",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "INL 148": {
+        "description": "POWER - CURRENT LOW",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "INL 149": {
+        "description": "POWER - CURRENT HIGH",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "INL 150": {
+        "description": "POWER - CURRENT LOW",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "INL 151": {
+        "description": "POWER - CURRENT HIGH",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "INL 152": {
+        "description": "POWER - VOLTAGE LOW",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "INL 153": {
+        "description": "POWER - VOLTAGE HIGH",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "INL 154": {
+        "description": "ENVIRONMENT - TEMP HIGH",
+        "impact": "Site down",
+        "type": "ENVIRONMENT"
+    },
+    "INL 16": {
+        "description": "SYSTEM - FAN FAILURE",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "INL 17": {
+        "description": "SYSTEM - CONTROLER TAMPER",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "INL 18": {
+        "description": "SYSTEM - CONTROLER COMMUNICATION",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "INL 2": {
+        "description": "SECURITY - GEN DOOR OPEN",
+        "impact": "Warning",
+        "type": "SECURITY"
+    },
+    "INL 20": {
+        "description": "POWER - GEN FAILURE",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "INL 203": {
+        "description": "POWER - BATTERY LOW",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "INL 204": {
+        "description": "POWER - SITE ON BATTERY",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "INL 207": {
+        "description": "ENVIRONMENT - TEMP HIGH",
+        "impact": "Site down",
+        "type": "ENVIRONMENT"
+    },
+    "INL 208": {
+        "description": "ENVIRONMENT - TEMP HIGH",
+        "impact": "Site down",
+        "type": "ENVIRONMENT"
+    },
+    "INL 21": {
+        "description": "POWER - GEN FAILURE",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "INL 210": {
+        "description": "POWER - BATTERY CHARGING",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "INL 22": {
+        "description": "POWER - CB TRIP",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "INL 23": {
+        "description": "POWER - CB TRIP",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "INL 24": {
+        "description": "POWER - SITE ON GRID",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "INL 26": {
+        "description": "POWER - GEN FAILURE",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "INL 27": {
+        "description": "POWER - GEN FAILURE",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "INL 28": {
+        "description": "POWER - SURGE",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "INL 29": {
+        "description": "DIESEL - QUALITY",
+        "impact": "Warning",
+        "type": "DIESEL"
+    },
+    "INL 3": {
+        "description": "POWER - GEN ON",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "INL 30": {
+        "description": "SECURITY - SHELTER OPEN",
+        "impact": "Warning",
+        "type": "SECURITY"
+    },
+    "INL 31": {
+        "description": "SYSTEM - CONTROLER COMMUNICATION",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "INL 32": {
+        "description": "SECURITY - INTRUSION",
+        "impact": "Warning",
+        "type": "SECURITY"
+    },
+    "INL 34": {
+        "description": "ENVIRONMENT - AWL FAILURE",
+        "impact": "Warning",
+        "type": "ENVIRONMENT"
+    },
+    "INL 35": {
+        "description": "ENVIRONMENT - AIRCON FAILURE",
+        "impact": "Warning",
+        "type": "ENVIRONMENT"
+    },
+    "INL 36": {
+        "description": "ENVIRONMENT - AIRCON FAILURE",
+        "impact": "Warning",
+        "type": "ENVIRONMENT"
+    },
+    "INL 37": {
+        "description": "ENVIRONMENT - TEMP HIGH",
+        "impact": "Site down",
+        "type": "ENVIRONMENT"
+    },
+    "INL 38": {
+        "description": "ENVIRONMENT - TEMP HIGH",
+        "impact": "Site down",
+        "type": "ENVIRONMENT"
+    },
+    "INL 39": {
+        "description": "ENVIRONMENT - FAN FAILURE",
+        "impact": "Warning",
+        "type": "ENVIRONMENT"
+    },
+    "INL 4": {
+        "description": "SECURITY - FUEL COVER OPEN",
+        "impact": "Warning",
+        "type": "SECURITY"
+    },
+    "INL 41": {
+        "description": "ENVIRONMENT - SMOKE",
+        "impact": "Warning",
+        "type": "ENVIRONMENT"
+    },
+    "INL 42": {
+        "description": "ENVIRONMENT - SMOKE",
+        "impact": "Site down",
+        "type": "ENVIRONMENT"
+    },
+    "INL 43": {
+        "description": "ENVIRONMENT - AIRCON FAILURE",
+        "impact": "Warning",
+        "type": "ENVIRONMENT"
+    },
+    "INL 44": {
+        "description": "ENVIRONMENT - AIRCON FAILURE",
+        "impact": "Warning",
+        "type": "ENVIRONMENT"
+    },
+    "INL 45": {
+        "description": "ENVIRONMENT - AIRCON FAILURE",
+        "impact": "Warning",
+        "type": "ENVIRONMENT"
+    },
+    "INL 46": {
+        "description": "ENVIRONMENT - AIRCON FAILURE",
+        "impact": "Warning",
+        "type": "ENVIRONMENT"
+    },
+    "INL 47": {
+        "description": "ENVIRONMENT - TEMP HIGH",
+        "impact": "Site down",
+        "type": "ENVIRONMENT"
+    },
+    "INL 48": {
+        "description": "ENVIRONMENT - TEMP HIGH",
+        "impact": "Site down",
+        "type": "ENVIRONMENT"
+    },
+    "INL 49": {
+        "description": "ENVIRONMENT - MULTI AIRCON ON",
+        "impact": "Info",
+        "type": "ENVIRONMENT"
+    },
+    "INL 5": {
+        "description": "POWER - GEN FAILURE",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "INL 50": {
+        "description": "SYSTEM - CONTROLER FAILURE",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "INL 501": {
+        "description": "SYSTEM - COMMUNICATION FAILURE",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "INL 502": {
+        "description": "SYSTEM - CONFIG ERROR",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "INL 504": {
+        "description": "SYSTEM - FUEL SENSOR FAILURE",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "INL 505": {
+        "description": "SYSTEM - FUEL SENSOR FAILURE",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "INL 506": {
+        "description": "SYSTEM - COMMUNICATION FAILURE",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "INL 508": {
+        "description": "SYSTEM - SIM 1 ACTIVE",
+        "impact": "Info",
+        "type": "SYSTEM"
+    },
+    "INL 509": {
+        "description": "SYSTEM - SIM 2 ACTIVE",
+        "impact": "Info",
+        "type": "SYSTEM"
+    },
+    "INL 51": {
+        "description": "SYSTEM - CONFIG ERROR",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "INL 510": {
+        "description": "SYSTEM - CONTROLER COMMUNICATION",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "INL 52": {
+        "description": "DIESEL - FUEL LEVEL LOW",
+        "impact": "Warning",
+        "type": "DIESEL"
+    },
+    "INL 520": {
+        "description": "SYSTEM - CLAMP DISCONNECT",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "INL 521": {
+        "description": "SYSTEM - CLAMP DISCONNECT",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "INL 522": {
+        "description": "SYSTEM - CLAMP DISCONNECT",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "INL 523": {
+        "description": "SYSTEM - CLAMP DISCONNECT",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "INL 524": {
+        "description": "SYSTEM - CLAMP DISCONNECT",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "INL 525": {
+        "description": "SYSTEM - CLAMP DISCONNECT",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "INL 53": {
+        "description": "DIESEL - FUEL LEVEL HIGH",
+        "impact": "Info",
+        "type": "DIESEL"
+    },
+    "INL 54": {
+        "description": "DIESEL - FUEL LEVEL LOW",
+        "impact": "Warning",
+        "type": "DIESEL"
+    },
+    "INL 55": {
+        "description": "DIESEL - FUEL LEVEL HIGH",
+        "impact": "Info",
+        "type": "DIESEL"
+    },
+    "INL 56": {
+        "description": "SYSTEM - FUEL SENSOR FAILURE",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "INL 57": {
+        "description": "POWER - GEN FAILURE",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "INL 575": {
+        "description": "POWER - CURRENT LOW",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "INL 576": {
+        "description": "POWER - CURRENT HIGH",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "INL 577": {
+        "description": "POWER - CURRENT LOW",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "INL 578": {
+        "description": "POWER - CURRENT HIGH",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "INL 579": {
+        "description": "POWER - VOLTAGE LOW",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "INL 580": {
+        "description": "POWER - VOLTAGE HIGH",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "INL 581": {
+        "description": "ENVIRONMENT - TEMP HIGH",
+        "impact": "Warning",
+        "type": "ENVIRONMENT"
+    },
+    "INL 582": {
+        "description": "SYSTEM - FUEL SENSOR FAILURE",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "INL 583": {
+        "description": "SYSTEM - CLAMP DISCONNECT",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "INL 584": {
+        "description": "POWER - CURRENT LOW",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "INL 585": {
+        "description": "POWER - CURRENT HIGH",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "INL 586": {
+        "description": "POWER - VOLTAGE LOW",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "INL 587": {
+        "description": "POWER - VOLTAGE HIGH",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "INL 588": {
+        "description": "ENVIRONMENT - TEMP HIGH",
+        "impact": "Site down",
+        "type": "ENVIRONMENT"
+    },
+    "INL 589": {
+        "description": "POWER - CURRENT LOW",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "INL 590": {
+        "description": "POWER - CURRENT HIGH",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "INL 591": {
+        "description": "POWER - CURRENT LOW",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "INL 592": {
+        "description": "POWER - CURRENT HIGH",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "INL 593": {
+        "description": "POWER - VOLTAGE LOW",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "INL 594": {
+        "description": "POWER - VOLTAGE HIGH",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "INL 595": {
+        "description": "ENVIRONMENT - TEMP HIGH",
+        "impact": "Site down",
+        "type": "ENVIRONMENT"
+    },
+    "INL 596": {
+        "description": "SYSTEM - FUEL SENSOR FAILURE",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "INL 597": {
+        "description": "SYSTEM - CLAMP DISCONNECT",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "INL 598": {
+        "description": "POWER - CURRENT HIGH",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "INL 599": {
+        "description": "POWER - VOLTAGE LOW",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "INL 6": {
+        "description": "SECURITY - GEN DOOR OPEN",
+        "impact": "Warning",
+        "type": "SECURITY"
+    },
+    "INL 60": {
+        "description": "SYSTEM - FUEL SENSOR FAILURE",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "INL 600": {
+        "description": "POWER - VOLTAGE HIGH",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "INL 601": {
+        "description": "ENVIRONMENT - TEMP HIGH",
+        "impact": "Site down",
+        "type": "ENVIRONMENT"
+    },
+    "INL 602": {
+        "description": "SYSTEM - FUEL SENSOR FAILURE",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "INL 603": {
+        "description": "SYSTEM - CLAMP DISCONNECT",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "INL 604": {
+        "description": "SYSTEM - CLAMP DISCONNECT",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "INL 605": {
+        "description": "POWER - CURRENT LOW",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "INL 606": {
+        "description": "POWER - CURRENT HIGH",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "INL 607": {
+        "description": "POWER - CURRENT LOW",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "INL 608": {
+        "description": "POWER - CURRENT HIGH",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "INL 609": {
+        "description": "POWER - VOLTAGE LOW",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "INL 61": {
+        "description": "POWER - VOLTAGE LOW",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "INL 610": {
+        "description": "POWER - VOLTAGE HIGH",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "INL 611": {
+        "description": "ENVIRONMENT - TEMP HIGH",
+        "impact": "Warning",
+        "type": "ENVIRONMENT"
+    },
+    "INL 612": {
+        "description": "SYSTEM - FUEL SENSOR FAILURE",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "INL 613": {
+        "description": "SYSTEM - CLAMP DISCONNECT",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "INL 62": {
+        "description": "SYSTEM - HUMIDITY SENSORE FAILURE",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "INL 622": {
+        "description": "SYSTEM - CLAMP DISCONNECT",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "INL 63": {
+        "description": "ENVIRONMENT - HUMIDITY HIGH",
+        "impact": "Warning",
+        "type": "ENVIRONMENT"
+    },
+    "INL 64": {
+        "description": "SYSTEM - COMMUNICATION FAILURE",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "INL 67": {
+        "description": "SYSTEM - CONTROLER RESTART",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "INL 69": {
+        "description": "DIESEL - FUEL LEVEL DROP",
+        "impact": "Warning",
+        "type": "DIESEL"
+    },
+    "INL 7": {
+        "description": "POWER - GEN ON",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "INL 70": {
+        "description": "DIESEL - REFUEL",
+        "impact": "Info",
+        "type": "DIESEL"
+    },
+    "INL 71": {
+        "description": "POWER - GEN BATTERY LOW",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "INL 72": {
+        "description": "SYSTEM - CLAMP DISCONNECT",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "INL 75": {
+        "description": "SYSTEM - FUEL SENSOR FAILURE",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "INL 76": {
+        "description": "POWER - BATTERY LOW",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "INL 77": {
+        "description": "POWER - GEN BATTERY LOW",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "INL 78": {
+        "description": "POWER - GEN FAILURE",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "INL 79": {
+        "description": "POWER - GEN MAN OVERRIDE",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "INL 8": {
+        "description": "POWER - GRID OFF",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "INL 9": {
+        "description": "SECURITY - CCTV FAILURE",
+        "impact": "Warning",
+        "type": "SECURITY"
+    },
+    "INL068": {
+        "description": "Power - GEN OR GRID FREQUENCY RANGE",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "INL109": {
+        "description": "ENVIRONMENT - AIRCON 1 ON",
+        "impact": "Info",
+        "type": "ENVIRONMENT"
+    },
+    "INL110": {
+        "description": "ENVIRONMENT - AIRCON 2 ON",
+        "impact": "Info",
+        "type": "ENVIRONMENT"
+    },
+    "INL25": {
+        "description": "POWER - GEN ON",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "INL33": {
+        "description": "POWER - AC PHASE FAIL",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "INL40": {
+        "description": "POWER - NO GRID",
+        "impact": "Major",
+        "type": "POWER"
+    },
+    "INL65": {
+        "description": "POWER - HYBRID ACTIVE",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "INL66": {
+        "description": "POWER - HYBRID CANCELLED",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "Notif 09": {
+        "description": "GPRS Comms Fail",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "Notif 10": {
+        "description": "SAM Comms Failure",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "Notif 145": {
+        "description": "POWER - BATTERY FAILURE",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "Notif03": {
+        "description": "DIESEL - FUEL LEVEL [DEADZONE]",
+        "impact": "Warning",
+        "type": "DIESEL"
+    },
+    "Notif05": {
+        "description": "POWER - GEN TEMP HIGH",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "Notif08": {
+        "description": "SECURITY - UNAUTHORIZED ACCESS",
+        "impact": "System",
+        "type": "SECURITY"
+    },
+    "Notif10": {
+        "description": "SYSTEM - COMMUNICATION FAILURE",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "Notif100": {
+        "description": "POWER - GEN OFF",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "Notif101": {
+        "description": "POWER - SITE ON BATTERY",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "Notif102": {
+        "description": "POWER - SITE ON BATTERY",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "Notif103": {
+        "description": "SYSTEM - TEMP SENSOR FAILURE",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "Notif104": {
+        "description": "POWER - AC PHASE 1 VOLTAGE LOW",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "Notif105": {
+        "description": "POWER - AC PHASE 2 VOLTAGE LOW",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "Notif106": {
+        "description": "POWER - AC PHASE 3 VOLTAGE LOW",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "Notif107": {
+        "description": "POWER - AC PHASE 1 VOLTAGE LOW",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "Notif108": {
+        "description": "POWER - AC PHASE 2 VOLTAGE LOW",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "Notif109": {
+        "description": "POWER - AC PHASE 3 VOLTAGE LOW",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "Notif11": {
+        "description": "DIESEL - FUEL LEVEL HIGH",
+        "impact": "Info",
+        "type": "DIESEL"
+    },
+    "Notif110": {
+        "description": "POWER - AC PHASE 1 VOLTAGE LOW",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "Notif111": {
+        "description": "POWER - AC PHASE 2 VOLTAGE LOW",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "Notif112": {
+        "description": "POWER - AC PHASE 3 VOLTAGE LOW",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "Notif113": {
+        "description": "POWER - SITE ON SOLAR",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "Notif114": {
+        "description": "POWER - SITE ON BATTERY & SOLAR",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "Notif115": {
+        "description": "POWER - SITE ON BATTERY",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "Notif12": {
+        "description": "DIESEL - FUEL LEVEL HIGH",
+        "impact": "Info",
+        "type": "DIESEL"
+    },
+    "Notif120": {
+        "description": "DIESEL - FUEL LEVEL [05%]",
+        "impact": "Warning",
+        "type": "DIESEL"
+    },
+    "Notif121": {
+        "description": "DIESEL - FUEL LEVEL [10%]",
+        "impact": "Warning",
+        "type": "DIESEL"
+    },
+    "Notif122": {
+        "description": "DIESEL - FUEL LEVEL [15%]",
+        "impact": "Warning",
+        "type": "DIESEL"
+    },
+    "Notif123": {
+        "description": "DIESEL - FUEL LEVEL [20%]",
+        "impact": "Warning",
+        "type": "DIESEL"
+    },
+    "Notif124": {
+        "description": "DIESEL - FUEL LEVEL [25%]",
+        "impact": "Warning",
+        "type": "DIESEL"
+    },
+    "Notif125": {
+        "description": "DIESEL - FUEL LEVEL [30%]",
+        "impact": "Info",
+        "type": "DIESEL"
+    },
+    "Notif126": {
+        "description": "DIESEL - FUEL LEVEL [35%]",
+        "impact": "Info",
+        "type": "DIESEL"
+    },
+    "Notif127": {
+        "description": "DIESEL - FUEL LEVEL [40%]",
+        "impact": "Info",
+        "type": "DIESEL"
+    },
+    "Notif128": {
+        "description": "DIESEL - FUEL LEVEL [45%]",
+        "impact": "Info",
+        "type": "DIESEL"
+    },
+    "Notif129": {
+        "description": "DIESEL - FUEL LEVEL [50%]",
+        "impact": "Info",
+        "type": "DIESEL"
+    },
+    "Notif13": {
+        "description": "DIESEL - FUEL LEVEL LOW",
+        "impact": "Warning",
+        "type": "DIESEL"
+    },
+    "Notif130": {
+        "description": "DIESEL - FUEL LEVEL [05%]",
+        "impact": "Warning",
+        "type": "DIESEL"
+    },
+    "Notif131": {
+        "description": "DIESEL - FUEL LEVEL [10%]",
+        "impact": "Warning",
+        "type": "DIESEL"
+    },
+    "Notif132": {
+        "description": "DIESEL - FUEL LEVEL [15%]",
+        "impact": "Warning",
+        "type": "DIESEL"
+    },
+    "Notif133": {
+        "description": "DIESEL - FUEL LEVEL [20%]",
+        "impact": "Warning",
+        "type": "DIESEL"
+    },
+    "Notif134": {
+        "description": "DIESEL - FUEL LEVEL [25%]",
+        "impact": "Warning",
+        "type": "DIESEL"
+    },
+    "Notif135": {
+        "description": "DIESEL - FUEL LEVEL [30%]",
+        "impact": "Info",
+        "type": "DIESEL"
+    },
+    "Notif136": {
+        "description": "DIESEL - FUEL LEVEL [35%]",
+        "impact": "Info",
+        "type": "DIESEL"
+    },
+    "Notif137": {
+        "description": "DIESEL - FUEL LEVEL [40%]",
+        "impact": "Info",
+        "type": "DIESEL"
+    },
+    "Notif138": {
+        "description": "DIESEL - FUEL LEVEL [45%]",
+        "impact": "Info",
+        "type": "DIESEL"
+    },
+    "Notif139": {
+        "description": "DIESEL - FUEL LEVEL [50%]",
+        "impact": "Info",
+        "type": "DIESEL"
+    },
+    "Notif14": {
+        "description": "DIESEL - FUEL LEVEL LOW",
+        "impact": "Warning",
+        "type": "DIESEL"
+    },
+    "Notif140": {
+        "description": "POWER - GEN SHUTDOWN",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "Notif141": {
+        "description": "POWER - GEN SHUTDOWN",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "Notif142": {
+        "description": "POWER - GEN TEMP HIGH",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "Notif143": {
+        "description": "SYSTEM - UNAUTHORIZED IP",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "Notif144": {
+        "description": "SYSTEM - UNAUTHORIZED SMS",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "Notif145": {
+        "description": "POWER - BATTERY FAILURE",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "Notif146": {
+        "description": "POWER - BATTERY FAILURE",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "Notif147": {
+        "description": "POWER - BATTERY FAILURE",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "Notif148": {
+        "description": "POWER - ALL TENANTS DOWN",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "Notif15": {
+        "description": "SYSTEM - MODBUS FAILURE",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "Notif16": {
+        "description": "SYSTEM - MODBUS FAILURE",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "Notif18": {
+        "description": "DIESEL - REFUEL",
+        "impact": "Info",
+        "type": "DIESEL"
+    },
+    "Notif22": {
+        "description": "SYSTEM - COMMUNICATION FAILURE",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "Notif24": {
+        "description": "DIESEL - QUALITY",
+        "impact": "Warning",
+        "type": "DIESEL"
+    },
+    "Notif25": {
+        "description": "DIESEL - QUALITY",
+        "impact": "Warning",
+        "type": "DIESEL"
+    },
+    "Notif26": {
+        "description": "POWER - GEN ON",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "Notif27": {
+        "description": "DIESEL - FUEL LEVEL [40%]",
+        "impact": "Info",
+        "type": "DIESEL"
+    },
+    "Notif28": {
+        "description": "DIESEL - FUEL LEVEL [DEADZONE]",
+        "impact": "Warning",
+        "type": "DIESEL"
+    },
+    "Notif29": {
+        "description": "DIESEL - FUEL LEVEL [DEADZONE]",
+        "impact": "Warning",
+        "type": "DIESEL"
+    },
+    "Notif30": {
+        "description": "DIESEL - FUEL LEVEL DROP",
+        "impact": "Warning",
+        "type": "DIESEL"
+    },
+    "Notif31": {
+        "description": "SYSTEM - COMMUNICATION FAILURE",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "Notif34": {
+        "description": "SECURITY - SITE STRIKE",
+        "impact": "Warning",
+        "type": "SECURITY"
+    },
+    "Notif43": {
+        "description": "DIESEL - FUEL LEVEL [DEADZONE]",
+        "impact": "Warning",
+        "type": "DIESEL"
+    },
+    "Notif44": {
+        "description": "POWER - GRID OFF",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "Notif45": {
+        "description": "POWER - SITE ON BATTERY",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "Notif46": {
+        "description": "POWER - SITE ON BATTERY",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "Notif47": {
+        "description": "POWER - SITE ON BATTERY",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "Notif48": {
+        "description": "DIESEL - FUEL LEVEL [50%]",
+        "impact": "Info",
+        "type": "DIESEL"
+    },
+    "Notif49": {
+        "description": "DIESEL - FUEL LEVEL [60%]",
+        "impact": "Info",
+        "type": "DIESEL"
+    },
+    "Notif50": {
+        "description": "POWER - GEN OFF",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "Notif51": {
+        "description": "POWER - GEN OFF",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "Notif52": {
+        "description": "SECURITY - GATE OPEN REMOTELY",
+        "impact": "Warning",
+        "type": "SECURITY"
+    },
+    "Notif53": {
+        "description": "SYSTEM - SERVER FAILURE",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "Notif56": {
+        "description": "SYSTEM - SMS MODEM FAILURE",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "Notif58": {
+        "description": "DIESEL - FUEL LEVEL [DEADZONE]",
+        "impact": "Warning",
+        "type": "DIESEL"
+    },
+    "Notif60": {
+        "description": "POWER - SITE ON BATTERY",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "Notif61": {
+        "description": "POWER - SITE ON BATTERY",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "Notif62": {
+        "description": "SYSTEM - EXCESS LOGS",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "Notif63": {
+        "description": "SYSTEM - CONTROLER TIME",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "Notif64": {
+        "description": "SYSTEM - CONTROLER RESTART",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "Notif65": {
+        "description": "DIESEL - FUEL LEVEL [500L]",
+        "impact": "Info",
+        "type": "DIESEL"
+    },
+    "Notif66": {
+        "description": "DIESEL - FUEL LEVEL [500L]",
+        "impact": "Info",
+        "type": "DIESEL"
+    },
+    "Notif67": {
+        "description": "SYSTEM - EXCESS COMMS FAILURE",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "Notif68": {
+        "description": "SYSTEM - EXCESS COMMS FAILURE",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "Notif69": {
+        "description": "SYSTEM - ENERGY METER DISCONNECT",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "Notif70": {
+        "description": "SYSTEM - ENERGY METER DISCONNECT",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "Notif71": {
+        "description": "SYSTEM - ENERGY METER DISCONNECT",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "Notif72": {
+        "description": "SYSTEM - CLAMP DISCONNECT",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "Notif73": {
+        "description": "SYSTEM - CLAMP DISCONNECT",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "Notif74": {
+        "description": "SYSTEM - CLAMP DISCONNECT",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "Notif75": {
+        "description": "SYSTEM - CLAMP DISCONNECT",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "Notif76": {
+        "description": "SYSTEM - CLAMP DISCONNECT",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "Notif77": {
+        "description": "SYSTEM - ENERGY METER DISCONNECT",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "Notif78": {
+        "description": "SYSTEM - CLAMP DISCONNECT",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "Notif79": {
+        "description": "SYSTEM - CLAMP DISCONNECT",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "Notif80": {
+        "description": "SYSTEM - ENERGY METER DISCONNECT",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "Notif81": {
+        "description": "SYSTEM - CLAMP DISCONNECT",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "Notif82": {
+        "description": "SYSTEM - CLAMP DISCONNECT",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "Notif83": {
+        "description": "SYSTEM - CLAMP DISCONNECT",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "Notif84": {
+        "description": "SYSTEM - CLAMP DISCONNECT",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "Notif85": {
+        "description": "SYSTEM - CLAMP DISCONNECT",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "Notif86": {
+        "description": "SYSTEM - CLAMP DISCONNECT",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "Notif87": {
+        "description": "SYSTEM - CLAMP DISCONNECT",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "Notif88": {
+        "description": "SYSTEM - CLAMP DISCONNECT",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "Notif89": {
+        "description": "SYSTEM - CLAMP DISCONNECT",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "Notif90": {
+        "description": "SYSTEM - CLAMP DISCONNECT",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "Notif900": {
+        "description": "POWER - PHASE AVAILABLE",
+        "impact": "Info",
+        "type": "SYSTEM"
+    },
+    "Notif91": {
+        "description": "SYSTEM - CLAMP DISCONNECT",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "Notif92": {
+        "description": "SYSTEM - CLAMP DISCONNECT",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "Notif93": {
+        "description": "SYSTEM - CLAMP DISCONNECT",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "Notif94": {
+        "description": "SYSTEM - CLAMP DISCONNECT",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "Notif95": {
+        "description": "POWER - GEN VIBRATION OFF",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "Notif96": {
+        "description": "POWER - GEN VIBRATION OFF",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "Notif97": {
+        "description": "POWER - GEN TEMPER",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "Notif98": {
+        "description": "POWER - GEN OFF",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "Notif99": {
+        "description": "POWER - GEN OFF",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "OPCCrit": {
+        "description": "SYSTEM - CONTROLER COMMUNICATION",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "OPCMino": {
+        "description": "SYSTEM - CONTROLER COMMUNICATION",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "OPCWarn": {
+        "description": "SYSTEM - CONTROLER COMMUNICATION",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "QOW01": {
+        "description": "POWER - GEN FAILURE",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "QOW02": {
+        "description": "SECURITY - SHELTER OPEN",
+        "impact": "Warning",
+        "type": "SECURITY"
+    },
+    "QOW03": {
+        "description": "SYSTEM - CONTROLER FAILURE",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "QOW04": {
+        "description": "SYSTEM - BATTERY DOWN",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "QOW05": {
+        "description": "POWER - GEN FAILURE",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "QOW06": {
+        "description": "POWER - GEN ON",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "QOW07": {
+        "description": "POWER - GEN ON",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "QOW08": {
+        "description": "POWER - GEN FAILURE",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "QOW09": {
+        "description": "POWER - GEN ON AND NO OUTPUT",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "QOW10": {
+        "description": "POWER - RECTIFIER FAILURE",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "QOW11": {
+        "description": "POWER - VOLTAGE LOW",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "QOW12": {
+        "description": "POWER - VOLTAGE LOW",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "QOW13": {
+        "description": "ENVIRONMENT - AIRCON 2 ON",
+        "impact": "Info",
+        "type": "ENVIRONMENT"
+    },
+    "QOW14": {
+        "description": "ENVIRONMENT - TEMP HIGH",
+        "impact": "Site down",
+        "type": "ENVIRONMENT"
+    },
+    "QOW15": {
+        "description": "SYSTEM - TEMP SENSOR FAILURE",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "QOW16": {
+        "description": "POWER - BATTERY LOW",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "QOW17": {
+        "description": "POWER - BATTERY LOW",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "QOW18": {
+        "description": "DIESEL - FUEL LEVEL LOW",
+        "impact": "Warning",
+        "type": "DIESEL"
+    },
+    "QOW19": {
+        "description": "DIESEL - REFUEL",
+        "impact": "Info",
+        "type": "DIESEL"
+    },
+    "QOW20": {
+        "description": "POWER - GEN FAILURE",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "QOW21": {
+        "description": "POWER - GEN FAILURE",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "QOW22": {
+        "description": "DIESEL - FUEL LEVEL DROP",
+        "impact": "Warning",
+        "type": "DIESEL"
+    },
+    "QOW23": {
+        "description": "DIESEL - QUALITY",
+        "impact": "Warning",
+        "type": "DIESEL"
+    },
+    "QOW24": {
+        "description": "SYSTEM - FUEL SENSOR FAILURE",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "QOW25": {
+        "description": "POWER - VOLTAGE HIGH",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "QOW26": {
+        "description": "POWER - GEN FAILURE",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "QOW27": {
+        "description": "POWER - GEN FAILURE",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "QOW28": {
+        "description": "POWER - TENANT DOWN",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "QOW29": {
+        "description": "POWER - TENANT DOWN",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "QOW30": {
+        "description": "POWER - TENANT DOWN",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "QOW31": {
+        "description": "SYSTEM - COMMUNICATION FAILURE",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "QOW32": {
+        "description": "POWER - SITE ON SOLAR",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "QOW33": {
+        "description": "POWER - SITE ON BATTERY & SOLAR",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "QOW34": {
+        "description": "POWER - SITE ON GRID",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "QOW35": {
+        "description": "ENVIRONMENT - AIRCON FAILURE",
+        "impact": "Warning",
+        "type": "ENVIRONMENT"
+    },
+    "QOW36": {
+        "description": "ENVIRONMENT - AIRCON FAILURE",
+        "impact": "Warning",
+        "type": "ENVIRONMENT"
+    },
+    "QOW37": {
+        "description": "ENVIRONMENT - TEMP HIGH",
+        "impact": "Warning",
+        "type": "ENVIRONMENT"
+    },
+    "QOW38": {
+        "description": "ENVIRONMENT - TEMP HIGH",
+        "impact": "Warning",
+        "type": "ENVIRONMENT"
+    },
+    "QOW39": {
+        "description": "SYSTEM - SIM 2 ACTIVE",
+        "impact": "Info",
+        "type": "SYSTEM"
+    },
+    "QOW40": {
+        "description": "POWER - SITE ON BATTERY",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "QOW41": {
+        "description": "ENVIRONMENT - SMOKE",
+        "impact": "Warning",
+        "type": "ENVIRONMENT"
+    },
+    "QOW42": {
+        "description": "ENVIRONMENT - SMOKE",
+        "impact": "Warning",
+        "type": "ENVIRONMENT"
+    },
+    "QOW43": {
+        "description": "ENVIRONMENT - AIRCON FAILURE",
+        "impact": "Warning",
+        "type": "ENVIRONMENT"
+    },
+    "SAMAC-0001": {
+        "description": "Gate Open",
+        "impact": "Warning",
+        "type": "SECURITY"
+    },
+    "SAMAC-0002": {
+        "description": "Gate lock power",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "SAMAC-0004": {
+        "description": "SECURITY - GATE COMM FAILURE",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "SAMDP-0001": {
+        "description": "SYSTEM - CLAMP DISCONNECT",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "SAMDP-0002": {
+        "description": "SYSTEM - CLAMP DISCONNECT",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "SAMDP-0003": {
+        "description": "SYSTEM - CLAMP DISCONNECT",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "SAMDP-0004": {
+        "description": "SYSTEM - CLAMP DISCONNECT",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "SAMDP-0005": {
+        "description": "Probe 5 Tenant Off",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "SAMDP-0006": {
+        "description": "SYSTEM - CLAMP DISCONNECT",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "SAMDP-0013": {
+        "description": "Probe 1 Current Low",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "SAMDP-0014": {
+        "description": "Probe 2 Current Low",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "SAMDP-0015": {
+        "description": "Probe 3 Current Low",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "SAMDP-0016": {
+        "description": "Probe 4 Current Low",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "SAMDP-0017": {
+        "description": "Probe 5 Current Low",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "SAMDP-0018": {
+        "description": "Probe 6 Current Low",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "SAMDP-0019": {
+        "description": "Probe 1 Current High",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "SAMDP-0020": {
+        "description": "Probe 2 Current High",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "SAMDP-0021": {
+        "description": "Probe 3 Current High",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "SAMDP-0022": {
+        "description": "POWER - CURRENT HIGH",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "SAMDP-0023": {
+        "description": "Probe 5 Current High",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "SAMDP-0024": {
+        "description": "Probe 6 Current High",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "SAMGN-0001": {
+        "description": "SYSTEM - COMMUNICATION FAILURE",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "SAMGN-0002": {
+        "description": "SYSTEM - COMMUNICATION FAILURE",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "SAMGN-0003": {
+        "description": "Gen 2 Modbus no comms",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "SAMGN-0004": {
+        "description": "Gen 2 Data error",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "SAMGN-0006": {
+        "description": "Gen 2 Faulty",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "SAMRR-0002": {
+        "description": "SECURITY - GEN DOOR OPEN",
+        "impact": "Warning",
+        "type": "SECURITY"
+    },
+    "SAMRR-0003": {
+        "description": "POWER - GEN ON",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "SAMRR-0004": {
+        "description": "Fuel Tank Open",
+        "impact": "Warning",
+        "type": "SECURITY"
+    },
+    "SAMRR-0006": {
+        "description": "DG2 Door Open",
+        "impact": "Warning",
+        "type": "SECURITY"
+    },
+    "SAMRR-0007": {
+        "description": "Generator 2 On",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "SAMRR-0008": {
+        "description": "POWER - GRID OFF",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "SAMRR-0009": {
+        "description": "POWER - RECTIFIER SYSTEM FAILURE",
+        "impact": "Warning",
+        "type": "SECURITY"
+    },
+    "SAMRR-0010": {
+        "description": "Faulty Rec Module",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "SAMRR-0011": {
+        "description": "LVD - Transmission",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "SAMRR-0012": {
+        "description": "LVD - RBS",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "SAMRR-0013": {
+        "description": "Back Door",
+        "impact": "Warning",
+        "type": "SECURITY"
+    },
+    "SAMRR-0014": {
+        "description": "Front Door",
+        "impact": "Warning",
+        "type": "SECURITY"
+    },
+    "SAMRR-0016": {
+        "description": "SAM Fan Alarm",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "SAMRR-0017": {
+        "description": "SAM Tamper Alarm",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "SAMRR-0018": {
+        "description": "485 Comms",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "SAMRR-0020": {
+        "description": "DG2 FS eSite",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "SAMRR-0021": {
+        "description": "DG2 Oil Press",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "SAMRR-0022": {
+        "description": "T1Priority B Off",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "SAMRR-0023": {
+        "description": "T2Priority B Off",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "SAMRR-0024": {
+        "description": "Mains on Load",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "SAMRR-0026": {
+        "description": "DG1 FS",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "SAMRR-0027": {
+        "description": "DG1 Oil Press",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "SAMRR-0028": {
+        "description": "Surge Alarm",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "SAMRR-0029": {
+        "description": "DIESEL - QUALITY",
+        "impact": "Warning",
+        "type": "DIESEL"
+    },
+    "SAMRR-0030": {
+        "description": "SECURITY - SHELTER OPEN",
+        "impact": "Warning",
+        "type": "SECURITY"
+    },
+    "SAMRR-0031": {
+        "description": "DG Comms Modbus",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "SAMRR-0032": {
+        "description": "Intrusion",
+        "impact": "Warning",
+        "type": "SECURITY"
+    },
+    "SAMRR-0035": {
+        "description": "Aircon 1 No Power",
+        "impact": "Warning",
+        "type": "ENVIRONMENT"
+    },
+    "SAMRR-0036": {
+        "description": "Aircon 2 No Power",
+        "impact": "Warning",
+        "type": "ENVIRONMENT"
+    },
+    "SAMRR-0041": {
+        "description": "Smoke Alarm",
+        "impact": "Site down",
+        "type": "ENVIRONMENT"
+    },
+    "SAMRR-0042": {
+        "description": "Smoke Detector",
+        "impact": "Site down",
+        "type": "ENVIRONMENT"
+    },
+    "SAMRR-0043": {
+        "description": "ENVIRONMENT - AIRCON FAILURE",
+        "impact": "Warning",
+        "type": "ENVIRONMENT"
+    },
+    "SAMRR-0044": {
+        "description": "Aircon 2 Fail",
+        "impact": "Warning",
+        "type": "ENVIRONMENT"
+    },
+    "SAMRR-0045": {
+        "description": "Aircon 3 Fail",
+        "impact": "Warning",
+        "type": "ENVIRONMENT"
+    },
+    "SAMRR-0046": {
+        "description": "Aircon 4 Fail",
+        "impact": "Warning",
+        "type": "ENVIRONMENT"
+    },
+    "SAMRR-0047": {
+        "description": "High Temp",
+        "impact": "Site down",
+        "type": "ENVIRONMENT"
+    },
+    "SAMRR-0048": {
+        "description": "Very High Temp",
+        "impact": "Site down",
+        "type": "ENVIRONMENT"
+    },
+    "SAMRR-0049": {
+        "description": "Multi Aircon Run",
+        "impact": "Info",
+        "type": "ENVIRONMENT"
+    },
+    "SAMRR-0050": {
+        "description": "SAM2 12V DC Fail",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "SAMRR-0051": {
+        "description": "Config Corrupt",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "SAMRR-0052": {
+        "description": "DIESEL - FUEL LEVEL LOW",
+        "impact": "Warning",
+        "type": "DIESEL"
+    },
+    "SAMRR-0053": {
+        "description": "DIESEL - FUEL LEVEL HIGH",
+        "impact": "Info",
+        "type": "DIESEL"
+    },
+    "SAMRR-0054": {
+        "description": "Low Fuel Lvl2",
+        "impact": "Warning",
+        "type": "DIESEL"
+    },
+    "SAMRR-0055": {
+        "description": "Fuel 2 Full",
+        "impact": "Info",
+        "type": "DIESEL"
+    },
+    "SAMRR-0056": {
+        "description": "Fuel Sensor Disconnected",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "SAMRR-0057": {
+        "description": "DG Control Fail",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "SAMRR-0060": {
+        "description": "SYSTEM - FUEL SENSOR FAILURE",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "SAMRR-0061": {
+        "description": "POWER - VOLTAGE LOW",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "SAMRR-0062": {
+        "description": "Humidity Probe",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "SAMRR-0063": {
+        "description": "ENVIRONMENT - HUMIDITY HIGH",
+        "impact": "Warning",
+        "type": "ENVIRONMENT"
+    },
+    "SAMRR-0067": {
+        "description": "RMS Start Fail",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "SAMRR-0069": {
+        "description": "Fuel Drop",
+        "impact": "Warning",
+        "type": "DIESEL"
+    },
+    "SAMRR-0070": {
+        "description": "DIESEL - REFUEL",
+        "impact": "Info",
+        "type": "DIESEL"
+    },
+    "SAMRR-0071": {
+        "description": "POWER - GEN 1 BATTERY LOW",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "SAMRR-0072": {
+        "description": "BCP Probe Alarm",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "SAMRR-0073": {
+        "description": "A/C Service Due",
+        "impact": "Warning",
+        "type": "ENVIRONMENT"
+    },
+    "SAMRR-0074": {
+        "description": "Power - GEN 1 MAINTENANCE",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "SAMRR-0075": {
+        "description": "Fuel Probe2 Fail",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "SAMRR-0076": {
+        "description": "BB Voltage Low",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "SAMRR-0077": {
+        "description": "DG2 Battery Low",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "SAMRR-0078": {
+        "description": "DG2 Start Fail",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "SAMRR-0079": {
+        "description": "DG Man Override",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "SAMRR-0080": {
+        "description": "DG2 Service Due",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "SAMRR-0087": {
+        "description": "Site Voltage High",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "SAMRR-0100": {
+        "description": "SAM Reset",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "SAMRR-0132": {
+        "description": "SYSTEM - SIM 1 ACTIVE",
+        "impact": "Info",
+        "type": "SYSTEM"
+    },
+    "SAMRR-0133": {
+        "description": "SYSTEM - SIM 2 ACTIVE",
+        "impact": "Info",
+        "type": "SYSTEM"
+    },
+    "SAMRR-0134": {
+        "description": "Site Down",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "SNMPCrit": {
+        "description": "SYSTEM - CONTROLER COMMUNICATION",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "SNMPMino": {
+        "description": "SYSTEM - CONTROLER COMMUNICATION",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "SNMPWarn": {
+        "description": "SYSTEM - CONTROLER COMMUNICATION",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "TECCrit": {
+        "description": "SYSTEM - CONTROLER ALARM",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "TECMino": {
+        "description": "SYSTEM - CONTROLER ALARM",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "TECWarn": {
+        "description": "SYSTEM - CONTROLER ALARM",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "USER-0002": {
+        "description": "DIESEL - FUEL LEVEL DROP",
+        "impact": "Warning",
+        "type": "DIESEL"
+    },
+    "USER-0003": {
+        "description": "POWER - SITE DOWN",
+        "impact": "Site down",
+        "type": "DIESEL"
+    },
+    "USER-0005": {
+        "description": "ENVIRONMENT - AIRCON FAILURE",
+        "impact": "Warning",
+        "type": "ENVIRONMENT"
+    },
+    "USER-0007": {
+        "description": "ENVIRONMENT - AIRCON FAILURE",
+        "impact": "Warning",
+        "type": "ENVIRONMENT"
+    },
+    "USER-0008": {
+        "description": "POWER - GEN OFF",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "USER-0010": {
+        "description": "POWER - SITE ON GRID",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "USER-0011": {
+        "description": "POWER - SITE ON GRID",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "USER-0012": {
+        "description": "SYSTEM - ENERGY METER DISCONNECT",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "USER-0013": {
+        "description": "POWER - MULTI GEN ON",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "USER-0015": {
+        "description": "POWER - SITE ON BATTERY",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "USER-0016": {
+        "description": "POWER - SITE DOWN",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "USER-0017": {
+        "description": "POWER - SITE ON SOLAR",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "USER-0018": {
+        "description": "POWER - SITE ON BATTERY & SOLAR",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "USER-0019": {
+        "description": "POWER - SITE DOWN",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "USER-0020": {
+        "description": "POWER - SITE ON GRID",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "USER-0021": {
+        "description": "POWER - GEN FAILURE",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "USER-0022": {
+        "description": "POWER - GEN FAILURE",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "USER-0023": {
+        "description": "POWER - SITE DOWN",
+        "impact": "Site down",
+        "type": "POWER"
+    },
+    "USER-0024": {
+        "description": "POWER - SITE ON SOLAR",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "USER-0025": {
+        "description": "POWER - SITE ON BATTERY & SOLAR",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "USER-0026": {
+        "description": "POWER - SITE ON BATTERY",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "USER-0027": {
+        "description": "POWER - SITE ON GRID",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "USER-0028": {
+        "description": "SYSTEM - FUEL SENSOR FAILURE",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "USER-0029": {
+        "description": "SYSTEM - FUEL SENSOR FAILURE",
+        "impact": "Warning",
+        "type": "SYSTEM"
+    },
+    "USER-0030": {
+        "description": "DIESEL - FUEL LEVEL LOW",
+        "impact": "Warning",
+        "type": "DIESEL"
+    },
+    "USER-0031": {
+        "description": "DIESEL - FUEL LEVEL LOW",
+        "impact": "Warning",
+        "type": "DIESEL"
+    },
+    "USER-0032": {
+        "description": "POWER - SITE ON BATTERY",
+        "impact": "Warning",
+        "type": "POWER"
+    },
+    "USER-0033": {
+        "description": "POWER - SITE ON SOLAR",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "USER-0034": {
+        "description": "POWER - SITE ON BATTERY & SOLAR",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "USER-0035": {
+        "description": "POWER - SITE ON SOLAR",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "USER-0036": {
+        "description": "POWER - SITE ON BATTERY & SOLAR",
+        "impact": "Info",
+        "type": "POWER"
+    },
+    "USER-0037": {
+        "description": "POWER - SITE ON BATTERY",
+        "impact": "Warning",
+        "type": "POWER"
+    }
+}

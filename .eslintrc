@@ -1,0 +1,55 @@
+{
+  "extends": [
+    "react-app",
+    "plugin:flowtype/recommended"
+  ],
+  "plugins": [
+    "flowtype",
+    "flowtype-errors",
+    "react-hooks",
+    "jsx-a11y",
+    "react",
+    "graphql"
+  ],
+  "env": {
+    "browser": true,
+    "es6": true,
+    "node": true,
+    "jest": true
+  },
+  "globals": {
+    "__DEV__": true
+  },
+  "parserOptions": {
+    "ecmaFeatures": {
+      "modules": true,
+      "restParams": true,
+      "spread": true,
+      "jsx": true
+    },
+    "ecmaVersion": 6,
+    "sourceType": "module"
+  },
+  "rules": {
+    "flowtype-errors/show-errors": "error",
+    "flowtype-errors/show-warnings": "warn",
+    "quotes": [ "warn", "single", { "allowTemplateLiterals": true }],
+    "indent": [ "warn", 4, { "SwitchCase": 1 } ],
+    "arrow-parens": ["warn", "as-needed", { "requireForBlockBody": true }],
+    "max-len": ["warn", 160, {
+      "ignoreComments": true,
+      "ignoreStrings": true,
+      "ignoreRegExpLiterals": true,
+      "ignoreTemplateLiterals": true,
+      "ignoreTrailingComments": true,
+      "ignoreUrls": true
+    }],
+    "no-console": "warn",
+    "prefer-const": "warn",
+    "semi": "warn",
+    "react/forbid-prop-types": "off",
+    "react/forbid-foreign-prop-types": "off",
+    "react-hooks/rules-of-hooks": "warn",
+    "react-hooks/exhaustive-deps": "warn"
+  }
+}
